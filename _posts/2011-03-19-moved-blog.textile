@@ -1,7 +1,7 @@
---
+---
 layout: post
-title: New Blog Home 
---
+title: "New Blog Home"
+---
 
 h1. {{ page title }}
 
