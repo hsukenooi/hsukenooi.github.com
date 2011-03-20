@@ -6,5 +6,3 @@ title: "Moved Blog"
 h1. {{ page.title }}
 
 <p>Posterous has started to be really slow so I moved this blog over to GitHub pages. Like that it gives me way more control.</p>
-
-<p class="meta demph">— March 19, 2011</p>
