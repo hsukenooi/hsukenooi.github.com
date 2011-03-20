@@ -1,0 +1,11 @@
+--
+layout: post
+title: New Blog Home 
+--
+
+h1. {{ page title }}
+
+p(meta). 19 Mar 2010 - Seattle
+
+<p>Moved the blog over to GitHub pages. Posterous was just too slow.</p>
+
