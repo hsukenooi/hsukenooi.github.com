@@ -1,23 +1,11 @@
 ---
 layout: post
-title: "On Talent"
+title: "Collins on Optimism"
 ---
-
-h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
 <div class="quote" style="margin: 20px 0;">
 	<div class="quote_symbol">&#8220;</div>
 	<p>What's the source of your optimism?</p>
 	<p>A lot of it has to do with the young generation. A general at West Point told me, "This is the most inspired and inspiring generation to come through West Point since 1945." I see the same thing with the young people who come to work for me. They have a sense of responsibility and service and a lack of cynicism that is remarkable and wonderful. It's an ethos, and it's collective. That's what's really powerful. It's connected technologically. It's not grandiose, but there is a fundamental assumption of being part of a much larger world and a much larger set of aspirations. The world can be a really awful, brutal, turbulent place. And yet I'm hopeful precisely because of this generation of kids. I really think we ought to just give them the keys as soon as we can. Let them run it.</p>
-	<p class="source">&mdash; JIM COLLINS for <a href="<a href="http://www.inc.com/magazine/20090401/in-times-like-these-you-get-a-chance.html">Inc.</a></p>
+	<p class="source">&mdash; JIM COLLINS for <a href="http://www.inc.com/magazine/20090401/in-times-like-these-you-get-a-chance.html">Inc.</a></p>
 </div>
-
-<p>I think there is such thing as talent but far too often people use it as an excuse to not do something. They desire certain skills and admire the "talented" few that possess them. Assuming that they were born with such unobtainable "talent" that no matter how hard they work they could never obtain, it's something you're born with they say.</p>
-<p>Bullshit.</p>
-<p>Talent is a crutch people use to simultaneously say they desire a skill greatly but won't exert the necessary effort to obtain it. I always hear people say this about math. That they aren't math people. No, you just haven't sat down and really worked at it. Your ability in math is directly proportional to your ability to sit down for extended periods of time and stubbornly think about things you don't understand.</p>
-<p>You can get good at anything.</p>
-<p>It could require an enormous amount of work, you'll have to make sacrifices, it probably won't be much fun but if you want to be good at something you can be. Taking the position that you can't be serves you no purpose, you're condemned only to those things that you are "talented" in. You won't know challenge, defeat or failure.</p>
-<p>How dreadful.</p>
-
-<span class="meta demph">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
-
