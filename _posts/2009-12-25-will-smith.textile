@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Will Smith"
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+<object width="500" height="417">
+<param name="movie" value="http://www.youtube.com/v/OLN2k0b3g70&amp;hl=en&amp;fs=1" />
+<param name="wmode" value="window" />
+<param name="allowFullScreen" value="true" />
+<param name="allowscriptaccess" value="always" /><embed src="http://www.youtube.com/v/OLN2k0b3g70&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" wmode="window" width="500" height="417"></embed>
+</object>
+<p>I'm not a huge Will Smith fan (Independence Day and Bad Boys were pretty rad though!) but I never knew he had such a awesome attitude about life! I love how he's so fired up about doing good and being unrealistc!</p>
+<p>He would have made a kick-ass entrepreneur.</p>
+
+<span class="meta demph">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
