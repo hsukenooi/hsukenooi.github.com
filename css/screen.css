@@ -13,10 +13,11 @@ a.demph { color: #999; }
 
 div#wrap { width: 505px; margin: 40px auto; padding-right: 55px; }
 
-div#header { padding-bottom: 3px; margin: 0 55px 40px 0; }
+div#header { padding-bottom: 3px; margin: 0 55px 30px 0; }
 div#header img#profile_image { float: left; width: 40px; margin: 5px 15px 0 0; }
 
 div#posts { margin-left: 55px; } 
 div.post h1 { margin-bottom: 10px; }  
-div.post p { margin-bottom: 10px; font-family: Georga, 'Times New Roman', Serif; }
+div.post p { font-size: 15px; line-height: 25px; margin-bottom: 10px; font-family: Georga, 'Times New Roman', Serif; }
 div.post li { margin-bottom: 10px; }
+div.post span.meta { display: block; margin-top: 15px; }
