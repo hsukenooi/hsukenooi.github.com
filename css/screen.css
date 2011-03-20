@@ -5,6 +5,7 @@ html, body, div, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote, 
 body { background: #fff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #333; line-height: 20px; }
 a:link, a:visited { text-decoration: none; color: #369;}
 a:hover { text-decoration: underline; }
+a img { border: none; }
 h1 { font-size: 24px; line-height: 30px; }
 h2 { font-size: 18px; line-height: 25px; margin: 20px 0 10px; }
 
