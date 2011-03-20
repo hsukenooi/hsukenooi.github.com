@@ -14,14 +14,13 @@ title: Writing
 
 <div id="footer">
   {% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}/">&larr; Older</a>
+    <a id="older_link" href="/page{{ paginator.next_page }}/">&larr; Older</a>
   {% endif %}
-  {% include search.html %}
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
-      <a href="/">Newer &rarr;</a>
+      <a id="newer_link" href="/">Newer &rarr;</a>
     {% else %}
-      <a href="/page{{ paginator.previous_page }}">Newer &rarr;</a>
+      <a id="newer_link" href="/page{{ paginator.previous_page }}">Newer &rarr;</a>
     {% endif %}
   {% endif %}
 </div>
