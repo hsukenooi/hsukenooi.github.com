@@ -20,8 +20,11 @@ div#posts { margin-left: 55px; border-top: 1px dotted #ccc; padding-top: 30px; }
 div.post { margin-bottom: 30px; border-bottom: 1px dotted #ccc; padding-bottom: 30px; }
 div.post h1 { margin-bottom: 10px; }  
 div.post h1 a { color: #333; }
+div.post h1 a:hover { color: ##369; }
 div.post p, div.post li { font-size: 15px; line-height: 25px; margin-bottom: 10px; font-family: Georga, 'Times New Roman', Serif; }
 div.post span.meta { display: block; margin-top: 15px; }
 div.post div.quote { margin-bottom: 20px; }
+div.post div.quote.no_after { margin-bottom: 0; }
 div.post div.quote p { font-family: Palatino, Georgia, Serif; font-size: 18px; line-height: 25px; }
+div.post div.quote p.source { font-size: 13px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; letter-spacing: 2px; margin-top: 20px; }
 div.post div.quote_symbol { font-family: Palatino, Georgia, Serif; font-size: 80px; margin: 25px 0 0 -45px; float: left; }
