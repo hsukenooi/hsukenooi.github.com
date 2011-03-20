@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Nerds and Weight Scales"
+title: "tanQ"
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-<p>My favorite television ever is <a href="http://en.wikipedia.org/wiki/Futurama">Futurama</a>. It's a pretty nerdy show about aliens, the future and created by the same guy that created the Simpsons, Matt Groening (who is from Portland!). A few weeks ago my cousin received a few Futurama toys from his girlfriend, officially making her the most awesome girl friend ever! Apparently KidRobot had made a line of Futurama toys a few months back and she had seen them selling at Urban Outfitters. Like any self-respecting fan we had to get all of them!</p>
-<p>It's not so easy though. There are a total of 14 different characters sold blind-boxed (you aren't sure what character is in any given box) for $9 a box. Furthermore the appearance of characters isn't uniformly distributed, some are more rare than others. If you just start buying boxes you're going to end up with a bunch of duplicates and wasted money. Hmm.. what to do?</p>
-<p>I don't know who originally came up with the idea (it wasn't me) but we found out that the weight of each box was unique depending on the character in the box. Foolish KidRobot people! That meant if we bought the right weigh scale and kept a mapping of weight to character we could avoid duplicates!&nbsp;</p>
-<p>So I over-nighted a weigh scale and set off the next day to the nearest Urban Outfitters. I weighed every single box in the store, probably over 60 boxes, and got a few weird glances from people. I was kind of surprised that no one that worked at the store came over to actually ask me what I was doing. I pretty much took down the display pyramid they had made out of the boxes. Don't worry I built it back for them!</p>
+<p>A few months ago I was helping a friend brainstorm ideas for a project she wanted to start. She's a graphic designer with an itch to do good so we were thinking of a way to put those things together.<br /> <br />tanQ, a play off her last name and thank you, picks a different non-profit each month, designs a tee shirt based on it's cause, sells them and donates the proceeds. 1 tee, 1 month, 1 good deed as we like to say.<br /> <br />The cause for November is the <a href="http://www.oregonfoodbank.org/">Oregon Food Bank</a>, tee shirts are available now at <a href="http://tanq.us">tanq.us</a></p>
+<p><a href="http://tanq.us"></a>As she likes to say, spread the word, spread the love.</p>
 
 <span class="meta demph">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
