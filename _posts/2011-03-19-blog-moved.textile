@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Moved Blog"
+title: "Blog Moved"
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
