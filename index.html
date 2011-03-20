@@ -6,7 +6,7 @@ title: Writing
 {% for post in site.posts limit:5 %}
   <div class="post">
 		{{ post.content }}
-    <p class="meta">&mdash;<a href="{{ post.url }}" class="demph">{{ post.date | date: "%b %d, %Y" }}</a></p>
+    <span class="meta"><a href="{{ post.url }}" class="demph">&mdash; {{ post.date | date: "%b %d, %Y" }}</a></span>
   </div>
 {% endfor %}
 </div>
