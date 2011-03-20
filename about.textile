@@ -6,8 +6,3 @@ title: "About"
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
 <p>I little about me.</p>
-
-h2. Contact
-
-Feel free to email me. For anything work-related, use <a href="mailto:hsuken@decide.com">hsuken@decide.com</a>. For everything else, please write <a href="mailto:hsukenooi@gmail.com">hsukenooi@gmail.com</a>.
-
