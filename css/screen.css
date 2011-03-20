@@ -6,7 +6,7 @@ body { background: #fff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-s
 a:link, a:visited { text-decoration: none; color: #369;}
 a:hover { text-decoration: underline; }
 h1 { font-size: 24px; line-height: 30px; }
-h2 { font-size: 18px; line-height: 25px; margin-bottom: 10px; }
+h2 { font-size: 18px; line-height: 25px; margin: 20px 0 10px; }
 
 .demph { color: #999; !important; }
 a.demph { color: #999; }
