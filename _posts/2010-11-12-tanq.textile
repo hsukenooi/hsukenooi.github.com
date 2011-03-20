@@ -7,3 +7,5 @@ h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
 <p>A few months ago I was helping a friend brainstorm ideas for a project she wanted to start. She's a graphic designer with an itch to do good so we were thinking of a way to put those things together.<br /> <br />tanQ, a play off her last name and thank you, picks a different non-profit each month, designs a tee shirt based on it's cause, sells them and donates the proceeds. 1 tee, 1 month, 1 good deed as we like to say.<br /> <br />The cause for November is the <a href="http://www.oregonfoodbank.org/">Oregon Food Bank</a>, tee shirts are available now at <a href="http://tanq.us">tanq.us</a></p>
 <p><a href="http://tanq.us"></a>As she likes to say, spread the word, spread the love.</p>
+
+<span class="meta demph">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>

@@ -6,3 +6,5 @@ title: "Moved Blog"
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
 <p>Posterous has started to be really slow so I moved this blog over to GitHub pages. Like that it gives me more control. Now to figure out how to transfer the posts.</p>
+
+<span class="meta demph">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>

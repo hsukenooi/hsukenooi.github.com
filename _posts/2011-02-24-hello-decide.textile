@@ -10,3 +10,5 @@ h1. <a href="{{ page.url }}">{{ page.title }}</a>
 <p>Honestly the best bit about all of it is the quality of people we've been able to hire. Not only are they the best at what they do but they're good guys. It's one of those cliches that's totally true, getting to work with talented people you enjoy is what it's all about. I don't know how I've managed to trick them into letting me work at their company.</p>
 <p>I remember all the blog posts I used to read about startups when we were first getting started. I'll have to do a post about common startup advice that I've found to be true or untrue.</p>
 <p>If you're interested in working at Decide let me know. We're still looking for awesome people.</p>
+
+<span class="meta demph">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>

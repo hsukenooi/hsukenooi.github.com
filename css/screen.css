@@ -20,7 +20,7 @@ div#posts { margin-left: 55px; border-top: 1px dotted #ccc; padding-top: 30px; }
 div.post { margin-bottom: 30px; border-bottom: 1px dotted #ccc; padding-bottom: 30px; }
 div.post h1 { margin-bottom: 10px; }  
 div.post h1 a { color: #333; }
-div.post h1 a:hover { color: ##369; }
+div.post h1 a:hover { color: #369; }
 div.post p, div.post li { font-size: 15px; line-height: 25px; margin-bottom: 10px; font-family: Georga, 'Times New Roman', Serif; }
 div.post span.meta { display: block; margin-top: 15px; }
 div.post div.quote { margin-bottom: 20px; }
