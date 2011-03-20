@@ -1,0 +1,21 @@
+---
+layout: post
+title: "On Talent"
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+<div class="quote ">
+	<div class="quote_symbol">&#8220;</div>
+	<p>Why do people commit their life to blaming their genes for not granting them that talent they desire with their soul?</p>
+	<p class="source">&mdash; UNKNOWN</p>
+</div>
+
+<p>I think there is such thing as talent but far too often people use it as an excuse to not do something. They desire certain skills and admire the "talented" few that possess them. Assuming that they were born with such unobtainable "talent" that no matter how hard they work they could never obtain, it's something you're born with they say.</p>
+<p>Bullshit.</p>
+<p>Talent is a crutch people use to simultaneously say they desire a skill greatly but won't exert the necessary effort to obtain it. I always hear people say this about math. That they aren't math people. No, you just haven't sat down and really worked at it. Your ability in math is directly proportional to your ability to sit down for extended periods of time and stubbornly think about things you don't understand.</p>
+<p>You can get good at anything.</p>
+<p>It could require an enormous amount of work, you'll have to make sacrifices, it probably won't be much fun but if you want to be good at something you can be. Taking the position that you can't be serves you no purpose, you're condemned only to those things that you are "talented" in. You won't know challenge, defeat or failure.</p>
+<p>How dreadful.</p>
+
+<span class="meta demph">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
