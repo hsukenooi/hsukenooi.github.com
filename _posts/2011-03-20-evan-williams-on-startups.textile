@@ -5,7 +5,7 @@ title: "Evan Williams On Startups"
 
 <div class="quote no_after">
 	<div class="quote_symbol">&#8220;</div>
-	<p>Change the world.</p><p>Build a business.</p><p>Have fun.</p>
+	<p>Change the world. Build a business. Have fun.</p>
 	<p class="source">&mdash; Evan Williams</p>
 </div>
 
