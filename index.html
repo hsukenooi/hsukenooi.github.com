@@ -6,7 +6,6 @@ title: Writing
 <div id="posts">
 {% for post in site.posts limit:5 %}
   <div class="post">
-		<a href="{{ post.url }}">{{ post.title }}</a>
 		{{ post.content }}
     <span class="meta demph">&mdash; <a href="{{ post.url }}">{{ post.date | date: "%b %d, %Y" }}</a></span>
   </div>
