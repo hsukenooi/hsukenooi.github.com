@@ -6,7 +6,7 @@ body { background: #fff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-s
 a:link, a:visited { text-decoration: none; color: #369;}
 a:hover { text-decoration: underline; }
 h1 { font-size: 24px; line-height: 30px; }
-h2 { font-size: 16px; line-height: 25px; margin-bottom: 10px; }
+h2 { font-size: 18px; line-height: 25px; margin-bottom: 10px; }
 
 .demph { color: #999; !important; }
 a.demph { color: #999; }
@@ -19,5 +19,9 @@ div#header img#profile_image { float: left; width: 40px; margin: 5px 15px 0 0; }
 div#posts { margin-left: 55px; border-top: 1px dotted #ccc; padding-top: 30px; } 
 div.post { margin-bottom: 30px; border-bottom: 1px dotted #ccc; padding-bottom: 30px; }
 div.post h1 { margin-bottom: 10px; }  
+div.post h1 a { color: #333; }
 div.post p, div.post li { font-size: 15px; line-height: 25px; margin-bottom: 10px; font-family: Georga, 'Times New Roman', Serif; }
 div.post span.meta { display: block; margin-top: 15px; }
+div.post div.quote { margin-bottom: 20px; }
+div.post div.quote p { font-family: Palatino, Georgia, Serif; font-size: 18px; line-height: 25px; }
+div.post div.quote_symbol { font-family: Palatino, Georgia, Serif; font-size: 80px; margin: 25px 0 0 -45px; float: left; }

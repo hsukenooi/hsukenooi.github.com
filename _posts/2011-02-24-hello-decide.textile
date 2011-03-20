@@ -3,7 +3,7 @@ layout: post
 title: "Hello Decide"
 ---
 
-h1. {{ page.title }}
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
 <p>This update is a little late but to borrow from my favorite show, "Good news, everyone!". Our little startup was recently funded and is now Decide. Read the full announcement on our blog.</p>
 <p>I've been asked by a few friends how it feels after almost 2 years without pay, working out of coffee shops. I'd like to give this rousing speech about the power of hard work and the spirit of entrepreneurism but it doesn't seem apt. I'll save that for some time later. It feels too much like a beginning for that kind of stuff. Still so much left to do.</p>

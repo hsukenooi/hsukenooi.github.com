@@ -3,7 +3,7 @@ layout: post
 title: "I'm 27"
 ---
 
-h1. {{ page.title }}
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
 <p>I turned 27 a few weeks ago. I think there is something significant about 27, at least it feels like it to me. I've been fighting the urge to write one of those long, self-reflective, overly dramatic posts about life and the pursuit of happiness but I'm doing it anyway and you can't stop me.</p>
 <h2>Things I'm Thankful For</h2>
