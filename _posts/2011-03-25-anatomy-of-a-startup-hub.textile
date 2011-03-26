@@ -13,13 +13,9 @@ h1. <a href="{{ page.url }}">{{ page.title }}</a>
 <p>There needs to be a top-tier engineering school nearby to draw from. San Francisco has Berkeley and Stanford, Seattle has UW, Boston has MIT and Harvard, etc. This is important not only because they're producing great people but also because these school are able to pull some of the brightest kids from other parts of the country and hopefully they stay afterwards.</p>
 
 <b>Prior Successful Companies</b>
-<p>
-I'm talking extremely successful, Microsoft, Google, Amazon kind of successful. They draw the best and the brightest from around the country, give them valuable experience, meet one another and become exceedingly rich in the process. This is especially true in the early days of these companies and significantly less so in the later on. I don't the numbers but I'm willing to bet that a disproportionate amount of startup founders either met or worked at these types of companies there during the early days. They're uniquely positioned to start new companies, relevant experience and the capital necessary to minimize the risk. Success breeds more success.
-<br/>
-It also gives rise to a investor community although this might be less important now as investors often look beyond their surrounding areas for promising startups.
-<br/>
-Although Seattle is typically thought of as a startup hub, given that we do pretty well in the above criteria, I wonder why there isn't more activity?
-</p>
+<p>I'm talking extremely successful, Microsoft, Google, Amazon kind of successful. They draw the best and the brightest from around the country, give them valuable experience, meet one another and become exceedingly rich in the process. This is especially true in the early days of these companies and significantly less so in the later on. I don't the numbers but I'm willing to bet that a disproportionate amount of startup founders either met or worked at these types of companies there during the early days. They're uniquely positioned to start new companies, relevant experience and the capital necessary to minimize the risk. Success breeds more success.</p>
+<p>It also gives rise to a investor community although this might be less important now as investors often look beyond their surrounding areas for promising startups.</p>
+<p>Although Seattle is typically thought of as a startup hub, given that we do pretty well in the above criteria, I wonder why there isn't more activity?</p>
 
 <b>Proximity to Success</b>
 <p>It's exceedingly rare to socially meet someone or even hear second hand about someone who started a successful startup. There is always the argument that I'm not in the right social circles but I digress. Actually I've been hearing a lot more about my friends being interested in startups but that's for another day. My cousin has his own startup in SF and I get the feeling that success is around him. He texts me about some guy he knew that just sold his company for x million dollars and complains that we need to work harder or be more lucky depending on the day. As trivial as that might sound I think it motivates people.</p>
