@@ -6,7 +6,7 @@ body { background: #fff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-s
 a:link, a:visited { text-decoration: none; color: #369;}
 a:hover { text-decoration: underline; }
 a img { border: none; }
-h1 { font-size: 24px; line-height: 30px; }
+h1 { font-size: 24px; line-height: 30px; font-weight: 300; }
 h2 { font-size: 18px; line-height: 25px; margin: 20px 0 10px; }
 
 .demph { color: #999; !important; }
@@ -15,6 +15,7 @@ a.demph { color: #999; }
 div#wrap { width: 505px; margin: 30px auto; padding-right: 55px; }
 
 div#header { padding-bottom: 3px; margin: 0 55px 30px 55px; }
+div#header h1 { position: relative; top: 10px; }
 div#header img#profile_image { float: left; width: 40px; margin: 5px 15px 0 0; }
 
 div#posts { margin-left: 55px; border-top: 1px dotted #ccc; padding-top: 30px; } 

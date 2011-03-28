@@ -5,4 +5,4 @@ title: "About"
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-<p>I'll write this at some day but that day isn't today!</p>
+<p>I'll write this one day but that day is not today!</p>
