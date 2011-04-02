@@ -11,10 +11,6 @@ h1. <a href="{{ page.url }}">{{ page.title }}</a>
 <p>I grew up in Portland, Oregon but was born in Penang, Malaysia where I spent my summers growing up.</p>
 
 
-h2. Elsewhere
-You can catch me at a few other places:
-<ul>
-	<li><a href="http://twitter.com/hsukenooi">Twitter</a></li>
-	<li><a href="http://www.linkedin.com/in/hsukenooi">Linkedin</a></li>
-	<li><a href="http://www.delicious.com/hsukenooi">Delicious</a></li>
-</ul>
+h1. Elsewhere
+
+<p>You can catch me at a few other places: <a href="http://twitter.com/hsukenooi">Twitter</a>, <a href="http://www.linkedin.com/in/hsukenooi">Linkedin</a>, <a href="http://www.delicious.com/hsukenooi">Delicious</a></p>
