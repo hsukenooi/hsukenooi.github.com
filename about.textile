@@ -9,8 +9,4 @@ h1. <a href="{{ page.url }}">{{ page.title }}</a>
 <p>I co-founded <a href="http://decide.com">Decide</a> where I focus on product design. Before that we built a couple different things that although didn't amount to much, we were buildings things that we wanted to build and learned a few things along the way.</p>
 <p>Prior to getting into startups I worked for a interactive agency named <a href="http://zaaz.com">ZAAZ</a> doing web analytics and monetization. I attended the University of Washington originally to study Computer Science but found out that Mathematics was more fun.</p>
 <p>I grew up in Portland, Oregon but was born in Penang, Malaysia where I spent my summers growing up.</p>
-
-
-h1. Elsewhere
-
 <p>You can catch me at a few other places: <a href="http://twitter.com/hsukenooi">Twitter</a>, <a href="http://www.linkedin.com/in/hsukenooi">Linkedin</a>, <a href="http://www.delicious.com/hsukenooi">Delicious</a></p>
