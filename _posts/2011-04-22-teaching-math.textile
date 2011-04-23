@@ -3,6 +3,8 @@ layout: post
 title: "Teaching Math"
 ---
 
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
 <div class="quote">
 	<div class="quote_symbol">&#8220;</div>
 	<p>Math is like a ladder. If you miss a step, sometimes you can't go on.</p>
