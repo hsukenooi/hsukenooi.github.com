@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Take a Stand"
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+<p class="source">by Geoffrey Canada</p>
+
+Maybe before we didn't know,
+That Corey is afraid to go
+To school, the store, to rollerskate.
+He cries a lot for a boy of eight.
+But now we know each day it's true
+That other girls and boys cry too.
+They cry for us to lend a hand.
+Time for us to take a stand.
+
+And little Maria's window screens
+Keeps out flies and other things.
+But she knows to duck her head,
+When she prays each night 'fore bed.
+Because in the window comes some things
+That shatter little children-dreams.
+For some, the hourglass is out of sand.
+Time for us to take a stand.
+
+And Charlie's deepest, secret wishes,
+Is someone to smother him with kisses
+And squeeze and hug him tight, so tight,
+While he pretends to put up a fight.
+Or at least someone to be at home,
+Who misses him, he's so alone.
+Who allowed this child-forsaken land?
+Look in the mirror, take a stand.
+
+And on the Sabbath, when we pray,
+To our God we often say,
+"Oh Jesus, Mohammed, Abraham,
+I come to better understand,
+How to learn to love and give,
+And live the life you taught to live.
+In faith we must join hand in hand,
+Suffer the children? Take a stand!
+
+And tonight, some child will go to bed,
+No food, no place to lay their head.
+No hand to hold, no lap to sit,
+To give slobbery kisses, from slobbery lips.
+So you and I we must succeed
+In this crusade, this holy deed,
+To say to the children of this land:
+Have hope. We're here. We Take A Stand
+
+<span class="meta demph">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
