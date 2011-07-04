@@ -5,8 +5,5 @@ title: "About"
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-<p>I'm 28 and live in Seattle, Washington.</p>
-<p>I'm co-founder of <a href="http://decide.com">Decide</a> where I focus on product design.</p>
-<p>I attended the University of Washington and studied Mathematics and Statistics.</p>
-<p>I grew up in Portland, Oregon but was born in Penang, Malaysia where I spent my summers growing up.</p>
+<p>I live in Seattle, Washington where I attended the University of Washington majoring in Mathematics and Statistics. I'm co-founder of <a href="http://decide.com">Decide</a> where I focus on product design.</p>
 <p>You should follow me on Twitter: <a href="http://twitter.com/hsukenooi">@hsukenooi</a></p>
