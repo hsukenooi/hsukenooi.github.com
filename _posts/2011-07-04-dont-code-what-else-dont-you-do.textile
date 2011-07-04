@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Don't Code? What else don't you do?"
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+<p>Here's my problem with people that want to start their own startup but "don't code": What else don't you do?</p>
+<p>There's many different ways to say it ("not a coder", "don't know how to code", etc.) and in each case you're sending the wrong message. You're telling potential co-founders, investors and employees that you're not willing to learn. Coding isn't like being seven feel tall, you can learn how to do it. You're making a conscious choice not to.</p>
+<p>Can you code Google's PageRank algorithm at their scale? No, probably not, but do you need to? Getting your idea off the ground is about building a prototype. Something demonstrative and purposefully limited.</p>
+<p>Starting a company is primarily an exercise in things you don't know how to do. You're willingness to learn is fundamental to the success of your startup. Especially in getting other people to believe in you, they need to believe you're going to do whatever it takes to be successful. </p>
+<p>Having a hard time recruiting a technical co-founder? Start coding.</p>
+
+<span class="meta demph">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
