@@ -12,7 +12,7 @@ h2 { font-size: 18px; line-height: 25px; margin: 20px 0 10px; }
 .demph { color: #999; !important; }
 a.demph { color: #999; }
 
-div#wrap { width: 505px; margin: 30px auto; padding-right: 55px; }
+div#wrap { width: 505px; margin: 30px auto; }
 
 div#header { padding-bottom: 3px; margin: 0 55px 30px 55px; }
 div#header h1 { position: relative; top: 10px; margin-left: 40px; }
