@@ -6,7 +6,7 @@ body { background: #fff; font-family: Georgia, 'Times New Roman', Serif; font-si
 a:link, a:visited { text-decoration: none; color: #369;}
 a:hover { text-decoration: underline; }
 a img { border: none; }
-h1, h2, h3 { font-family: Helvetica Neue, Helvetica, Georgia, Serif; }
+h1, h2, h3, h4 { font-family: Helvetica Neue, Helvetica, Georgia, Serif; }
 h1 { font-size: 24px; line-height: 30px; }
 h2 { font-size: 18px; line-height: 25px; margin: 20px 0 10px; }
 
