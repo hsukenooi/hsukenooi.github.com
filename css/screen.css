@@ -6,7 +6,7 @@ body { background: #fff; font-family: Georgia, 'Times New Roman', Serif; font-si
 a:link, a:visited { text-decoration: none; color: #369;}
 a:hover { text-decoration: underline; }
 a img { border: none; }
-h1 { font-size: 24px; line-height: 30px; font-weight: 300; }
+h1 { font-size: 24px; line-height: 30px; }
 h2 { font-size: 18px; line-height: 25px; margin: 20px 0 10px; }
 
 .demph { color: #999; !important; }
@@ -27,9 +27,9 @@ div.post p, div.post li { margin-bottom: 20px; }
 div.post span.meta { display: block; margin-top: 15px; }
 div.post div.quote { margin-bottom: 20px; }
 div.post div.quote.no_after { margin-bottom: 0; }
-div.post div.quote p { font-family: Palatino, Georgia, Serif; font-size: 18px; line-height: 25px; }
+div.post div.quote p { font-family: Georgia, Serif; }
 div.post div.quote p.source { text-transform: uppercase; font-size: 13px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; letter-spacing: 2px; margin-top: 20px; }
-div.post div.quote_symbol { font-family: Palatino, Georgia, Serif; font-size: 80px; margin: 25px 0 0 -45px; float: left; }
+div.post div.quote_symbol { font-family: Georgia, Serif; font-size: 80px; margin: 25px 0 0 -45px; float: left; }
 
 div#footer { margin: 0 0 60px 55px; overflow: hidden; }
 div#footer a#newer_link { float: right; }
