@@ -3,9 +3,7 @@ layout: post
 title: "Kobe on Losing"
 ---
 
-<div class="quote no_after">
-	<div class="quote_symbol">&#8220;</div>
+<blockquote>
 	<p>If you're afraid to fail, then you're probably going to fail," he says, laughing. "You know what I mean? Fuck it.</p>
-	<p class="source">&mdash; KOBE BRYANT</p>
-</div>
-
+	<small>Kobe Bryant</small>
+</blockquote>
