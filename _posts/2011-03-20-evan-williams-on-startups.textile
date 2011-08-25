@@ -4,6 +4,6 @@ title: "Evan Williams On Startups"
 ---
 
 <blockquote>
-<p>Change the world. Build a business. Have fun.</p>
+<h4>Change the world. Build a business. Have fun.</h4>
 <small>Evan Williams</small>
 </blockquote>
