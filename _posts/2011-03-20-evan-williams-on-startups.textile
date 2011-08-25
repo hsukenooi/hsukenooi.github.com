@@ -3,9 +3,7 @@ layout: post
 title: "Evan Williams On Startups"
 ---
 
-<div class="quote no_after">
-	<blockquote>
-	<p>Change the world. Build a business. Have fun.</p>
-	<small>&mdash; Evan Williams</small>
-	</blockquote>
-</div>
+<blockquote>
+<p>Change the world. Build a business. Have fun.</p>
+<small>Evan Williams</small>
+</blockquote>
