@@ -1,3 +1,4 @@
 .container { width: 520px !important; margin: 90px auto !important; }
 .post { margin-bottom: 90px; }
 .post-date { margin-top: 18px; display: block; }
+blockquote small { margin-top: 9px; }
