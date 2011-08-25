@@ -2,7 +2,8 @@
 layout: post
 title: "Advice from the Old Man"
 ---
+
 <blockquote>
-	<h4>Happy Birthday. Enjoy your special day and overall be nice to everyone, and everyone will feel you are special.</h4>
+	<p>Happy Birthday. Enjoy your special day and overall be nice to everyone, and everyone will feel you are special.</p>
 	<small>My Father</small>
 </blockquote>
