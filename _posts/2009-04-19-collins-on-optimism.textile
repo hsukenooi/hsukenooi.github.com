@@ -7,3 +7,4 @@ title: "Collins on Optimism"
 	<p>A lot of it has to do with the young generation. A general at West Point told me, "This is the most inspired and inspiring generation to come through West Point since 1945." I see the same thing with the young people who come to work for me. They have a sense of responsibility and service and a lack of cynicism that is remarkable and wonderful. It's an ethos, and it's collective. That's what's really powerful. It's connected technologically. It's not grandiose, but there is a fundamental assumption of being part of a much larger world and a much larger set of aspirations. The world can be a really awful, brutal, turbulent place. And yet I'm hopeful precisely because of this generation of kids. I really think we ought to just give them the keys as soon as we can. Let them run it.</p>
 	<small>Jim Collins</small>
 </blockquote>
+<span class="post-date">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>

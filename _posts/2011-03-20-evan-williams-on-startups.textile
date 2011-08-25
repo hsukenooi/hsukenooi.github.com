@@ -7,3 +7,4 @@ title: "Evan Williams On Startups"
 	<h4>Change the world. Build a business. Have fun.</h4>
 	<small>Evan Williams</small>
 </blockquote>
+<span class="post-date">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
