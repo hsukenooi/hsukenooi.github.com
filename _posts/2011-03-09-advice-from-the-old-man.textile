@@ -2,13 +2,7 @@
 layout: post
 title: "Advice from the Old Man"
 ---
-
-<div class="quote">
-	<div class="quote_symbol">&#8220;</div>
-	<p>Hello Hsu Ken</p>
-	<p>Happy Birthday. Enjoy your special day and overall be nice to everyone, and everyone will feel you are special.</p>
-	<p>Dad.</p>
-</div>
-<p>An e-mail that I received from my old man. Might actually have to listen to him on this one.</p>
-
-<span class="meta demph">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
+<blockquote>
+	<h4>Happy Birthday. Enjoy your special day and overall be nice to everyone, and everyone will feel you are special.</h4>
+	<small>My Father</small>
+</blockquote>
