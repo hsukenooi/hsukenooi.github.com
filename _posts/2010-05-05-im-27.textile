@@ -3,17 +3,17 @@ layout: post
 title: "I'm 27"
 ---
 
-h1. <a href="{{ page.url }}">{{ page.title }}</a>
+h1. {{ page.title }}
 
 <p>I turned 27 a few weeks ago. I think there is something significant about 27, at least it feels like it to me. I've been fighting the urge to write one of those long, self-reflective, overly dramatic posts about life and the pursuit of happiness but I'm doing it anyway and you can't stop me.</p>
-<h2>Things I'm Thankful For</h2>
+<h4>Things I'm Thankful For</h4>
 <ul>
 	<li>I build stuff for a living. How rad is that? When I was 10, I asked one of my best friends who lived across the street whether he wanted to build a website. He said no and I think we rode our bikes to the grocery store to buy candy but that's beside the point. I've always been compelled to create and I'm doing just that.</li>
 	<li>I've had the&nbsp;privilege&nbsp;to do some pretty cool stuff, traveled a bunch, climbed the Great Wall, flown an airplane, rode a elephant, rode a giant sea turtle, hiked on glacier, rafted down a waterfall.</li>
 	<li>My parents are happy. Father works too hard but honestly he wouldn't have it any other way. Mother would probably prefer to see my brother and I more often but now that they're living back in Malaysia at least she's surrounded by our exceedingly large extended family. I should call her.</li>
 	<li>I've met some wonderfully beautiful people.</li>
 </ul>
-<h2>Things To Do</h2>
+<h4>Things To Do</h4>
 <ul>
 	<li>Explore! There are so many things to eat, places to be, people to get lost with, trouble to get into, stuff to learn, things to create!</li>
 	<li>Build something that is useful to a <em>lot</em> of people.</li>
@@ -23,4 +23,4 @@ h1. <a href="{{ page.url }}">{{ page.title }}</a>
 </ul>
 <p>I think this is the time where I share the magical piece of advice&nbsp;I wish I had when I was younger.. <em>be happy</em>. It's pretty simple. Do something your passionate about, be&nbsp;embarrassingly&nbsp;silly more times than you'll admit, enjoy the little things that happen everyday,&nbsp;spend time with people you love. I'm convinced that happiness is more a state of mind than a emotion. People who are happy choose to be happy. Be happy!</p>
 
-<span class="meta demph">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
+<span class="post-date">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>

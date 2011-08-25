@@ -3,7 +3,7 @@ layout: post
 title: "On Talent"
 ---
 
-h1. <a href="{{ page.url }}">{{ page.title }}</a>
+h1. {{ page.title }}
 
 <blockquote>
 	<p>Why do people commit their life to blaming their genes for not granting them that talent they desire with their soul?</p>

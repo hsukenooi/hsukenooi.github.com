@@ -3,7 +3,7 @@ layout: post
 title: "Nerds and Weigh Scales"
 ---
 
-h1. <a href="{{ page.url }}">{{ page.title }}</a>
+h1. {{ page.title }}
 
 <p>My favorite television ever is <a href="http://en.wikipedia.org/wiki/Futurama">Futurama</a>. It's a pretty nerdy show about aliens, the future and created by the same guy that created the Simpsons, Matt Groening (who is from Portland!). A few weeks ago my cousin received a few Futurama toys from his girlfriend, officially making her the most awesome girl friend ever! Apparently KidRobot had made a line of Futurama toys a few months back and she had seen them selling at Urban Outfitters. Like any self-respecting fan we had to get all of them!</p>
 <p>It's not so easy though. There are a total of 14 different characters sold blind-boxed (you aren't sure what character is in any given box) for $9 a box. Furthermore the appearance of characters isn't uniformly distributed, some are more rare than others. If you just start buying boxes you're going to end up with a bunch of duplicates and wasted money. Hmm.. what to do?</p>
