@@ -3,7 +3,7 @@ layout: post
 title: "About"
 ---
 
-h1. <a href="{{ page.url }}">{{ page.title }}</a>
+h1. {{ page.title }}
 
 <p>I live in Seattle, Washington where I attended the University of Washington majoring in Mathematics and Statistics. I'm co-founder of <a href="http://decide.com">Decide</a> focusing on product design.</p>
 <p>You should follow me on Twitter: <a href="http://twitter.com/hsukenooi">@hsukenooi</a></p>
