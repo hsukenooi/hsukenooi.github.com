@@ -1,3 +1,3 @@
 .container { width: 640px !important; }
 .post { margin: 90px 0; }
-.post-date { margin-top: 18px; }
+.post-date { margin-top: 18px; display: block; }

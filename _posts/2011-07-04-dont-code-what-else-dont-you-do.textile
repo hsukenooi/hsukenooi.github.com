@@ -11,4 +11,4 @@ h1. {{ page.title }} <small>What else don't you do?</small>
 <p>Starting a company is primarily an exercise in things you don't know how to do. You're willingness to learn is fundamental to the success of your startup. Especially in getting other people to believe in you, they need to believe you're going to do whatever it takes to be successful. </p>
 <p>Having a hard time recruiting a technical co-founder? Start coding.</p>
 
-<span class="post-date"><a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
+<span class="post-date">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
