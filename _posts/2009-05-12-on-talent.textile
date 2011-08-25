@@ -6,7 +6,7 @@ title: "On Talent"
 h1. {{ page.title }}
 
 <blockquote>
-	<h4>Why do people commit their life to blaming their genes for not granting them that talent they desire with their soul?</h4>
+	<p>Why do people commit their life to blaming their genes for not granting them that talent they desire with their soul?</p>
 </blockquote>
 
 <p>I think there is such thing as talent but far too often people use it as an excuse to not do something. They desire certain skills and admire the "talented" few that possess them. Assuming that they were born with such unobtainable "talent" that no matter how hard they work they could never obtain, it's something you're born with they say.</p>
