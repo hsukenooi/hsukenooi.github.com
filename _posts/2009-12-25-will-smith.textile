@@ -6,4 +6,4 @@ title: "Will Smith"
 <iframe title="YouTube video player" width="450" height="390" src="http://www.youtube.com/embed/pfWGoLj1JCM" frameborder="0" allowfullscreen></iframe>
 <p>I'm not a huge Will Smith fan (Independence Day and Bad Boys were pretty rad though!) but I never knew he had such a awesome attitude about life! I love how he's so fired up about doing good and being unrealistc!</p>
 
-<span class="meta demph">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
+<span class="meta demph"><a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>

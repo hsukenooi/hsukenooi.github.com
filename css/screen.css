@@ -1,6 +1,7 @@
 .post h1 { font-weight: 300; }
+.post h1 small { font-weight: 300; }
 #body-content { margin: 90px auto; }
 .post { margin-bottom: 90px; }
-.post-date { margin-top: 18px; display: block; font-size: 11px; }
+.post-date { margin-top: 18px; display: block; }
 .post blockquote p { font-size: 18px; line-height: 27px; }
 blockquote small { margin-top: 9px; }

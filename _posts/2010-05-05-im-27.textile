@@ -3,7 +3,7 @@ layout: post
 title: "I'm 27"
 ---
 
-h1. {{ page.title }}
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
 <p>I turned 27 a few weeks ago. I think there is something significant about 27, at least it feels like it to me. I've been fighting the urge to write one of those long, self-reflective, overly dramatic posts about life and the pursuit of happiness but I'm doing it anyway and you can't stop me.</p>
 <h4>Things I'm Thankful For</h4>
@@ -23,4 +23,4 @@ h1. {{ page.title }}
 </ul>
 <p>I think this is the time where I share the magical piece of advice&nbsp;I wish I had when I was younger.. <em>be happy</em>. It's pretty simple. Do something your passionate about, be&nbsp;embarrassingly&nbsp;silly more times than you'll admit, enjoy the little things that happen everyday,&nbsp;spend time with people you love. I'm convinced that happiness is more a state of mind than a emotion. People who are happy choose to be happy. Be happy!</p>
 
-<span class="post-date">&mdash; <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
+<span class="post-date"><a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
