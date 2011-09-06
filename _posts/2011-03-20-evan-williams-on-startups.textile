@@ -5,7 +5,7 @@ category: quote
 ---
 
 <blockquote>
-	<h4>Change the world. Build a business. Have fun.</h4>
+	<p>Change the world. Build a business. Have fun.</p>
 	<small>Evan Williams</small>
 </blockquote>
 
