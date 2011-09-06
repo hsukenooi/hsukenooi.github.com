@@ -10,4 +10,3 @@ category: quote
 </blockquote>
 
 <span class="post-date"><a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
-{{ page.category }}
