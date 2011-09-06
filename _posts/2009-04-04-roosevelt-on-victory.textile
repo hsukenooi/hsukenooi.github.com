@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Roosevelt on Victory"
+category: quote
 ---
 
 <blockquote>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Evan Williams On Startups"
+category: quote
 ---
 
 <blockquote>

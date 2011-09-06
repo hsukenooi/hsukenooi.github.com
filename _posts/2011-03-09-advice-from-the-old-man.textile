@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Advice from the Old Man"
+category: quote
 ---
 
 <blockquote>

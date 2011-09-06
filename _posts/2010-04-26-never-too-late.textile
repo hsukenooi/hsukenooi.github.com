@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Never Too Late"
+category: quote
 ---
 
 <blockquote>
