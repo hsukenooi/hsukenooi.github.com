@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Don't Code?"
+category: blog 
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a> <small>What else don't you do?</small>
