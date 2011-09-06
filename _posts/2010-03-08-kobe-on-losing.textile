@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Kobe on Losing"
+category: quote
 ---
 
 <blockquote>
