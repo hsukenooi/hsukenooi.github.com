@@ -1,9 +1,14 @@
+#body-content { margin: 90px auto; }
+
 .post h1 { font-weight: 300; }
 .post h1 small { font-weight: 300; }
 .post h1 a { color: #404040; }
-#body-content { margin: 90px auto; }
 .post { margin-bottom: 90px; }
 .post-date { margin-top: 18px; display: block; }
 .post blockquote p { font-size: 18px; line-height: 27px; }
 blockquote small { margin-top: 9px; }
+
 #newer_link { float: right; }
+
+#footer { background: black; color: #fff; padding: 9px 18px 9px 0; text-align: right; }
+#footer a { color: #fff; text-decoration: underline; }
