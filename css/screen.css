@@ -10,5 +10,5 @@ blockquote small { margin-top: 9px; }
 
 #newer_link { float: right; }
 
-#footer { background: black; color: #fff; padding: 9px 18px 9px 0; text-align: right; }
+#footer { background: black; color: #fff; padding: 9px 18px 9px 0; text-align: right; position: absolute; bottom: 0; width: 100%; }
 #footer a { color: #BFBFBF; text-decoration: underline; }
