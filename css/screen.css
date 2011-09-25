@@ -1,12 +1,19 @@
-#body-content { margin: 90px auto; }
+body { color: #333; line-height: 25px; font-size: 17px; }
+#body-content { margin: 40px auto 90px; }
 
-.post h1 { font-weight: 300; }
+#header { border-bottom: 1px solid #ccc; margin-bottom: 50px; padding-bottom: 5px; }
+#header h1 { font-size: 18px; margin-bottom: 2px; line-height: 23px; }
+#header p#description { color: #ccc; }
+
+.post { margin-bottom: 50px; padding-bottom: 50px; border-bottom: 1px solid #ccc; }
+.post p { line-height: 25px; font-size: 17px; font-weight: 300; margin-bottom: 15px; }
+.post h1 { font-size: 18px;  margin-bottom: 1px; line-height: 25px; }
 .post h1 small { font-weight: 300; }
 .post h1 a { color: #404040; }
-.post { margin-bottom: 90px; }
-.post-date { margin-top: 18px; display: block; }
-.post blockquote p { font-size: 18px; line-height: 27px; }
-blockquote small { margin-top: 9px; }
+.post .post-meta { color: #ccc; font-size: 13px; line-height: 15px; margin-bottom: 20px; display: block; }
+.post blockquote { margin-left: -18px; }
+.post blockquote p { margin-top: -7px; padding-top: 2px; font-size: 17px; line-height: 25px; }
+blockquote small { margin-top: 8px; }
 
 #newer_link { float: right; }
 

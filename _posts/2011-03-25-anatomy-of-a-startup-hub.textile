@@ -5,6 +5,7 @@ category: blog
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
+<p class="post-meta">{{ category }} posted on {{ page.date | date: "%b %d, %Y" }}</p>
 
 <p>Lots of people have written about the benefits or disadvantages about doing a startup in x place compared to y place. I frankly don't think it matters as much as people seem to think it does based on the number of articles written about it. I'm not about to add to that list.</p>
 <p>What I have been thinking about is what makes some places more active than others?</p>
@@ -20,5 +21,3 @@ h1. <a href="{{ page.url }}">{{ page.title }}</a>
 <p>We were lucky enough to work with Oren when we started (we were also dumb enough not to take his advice). Brian and I used to spend time going to startup events around Seattle but never felt like we were getting much out of them. I've talked to other people who felt similarly. The people that can be really valuable mentors typically don't have the time. The problem is compounded by the fact that most people aren't willing to do what it takes, I mean really work. It takes a lot of energy to screen people so they typically don't bother. It's tough when you start out. You need to earn your stripes (ie. fail) first.</p>
 <p><h4>Microsoft and Amazon Startups</h4></p>
 <p>Maybe I'm ill-informed but I always expected more startups to have come out of employees from the early Microsoft and Amazon days. I do hear more about the latter than the former. Microsoft is one of the most, if not the most, successful technology company ever. What did the early employees at Microsoft do after they left? Again maybe I'm ill-informed here.</p>
-
-<span class="post-date"><a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
