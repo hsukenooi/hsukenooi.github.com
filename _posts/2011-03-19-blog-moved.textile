@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blog Moved"
-category: Blog 
+category: blog 
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>

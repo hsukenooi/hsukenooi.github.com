@@ -4,7 +4,7 @@ title: "Evan Williams On Startups"
 category: quote
 ---
 
-h1. <a href="{{ page.url }}">{{ page.title }}</a> <small>What else don't you do?</small>
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
 <p class="post-meta">{{ page.category }} posted on {{ page.date | date: "%b %d, %Y" }}</p>
 
 <blockquote>
