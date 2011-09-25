@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anatomy of a Startup Hub"
-category: blog 
+category: Blog 
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
