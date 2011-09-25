@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blog Moved"
+title: "Moved"
 category: blog 
 ---
 

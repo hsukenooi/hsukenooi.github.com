@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Hope"
+title: "Hope"
 category: quote
 ---
 

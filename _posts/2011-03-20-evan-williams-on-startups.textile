@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Evan Williams On Startups"
+title: "Goal"
 category: quote
 ---
 
