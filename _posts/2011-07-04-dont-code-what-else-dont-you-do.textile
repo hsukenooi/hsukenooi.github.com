@@ -4,7 +4,7 @@ title: "Don't Code?"
 category: Blog 
 ---
 
-h1. <a href="{{ page.url }}">{{ page.title }}</a> <small>What else don't you do?</small>
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
 <p class="post-meta">{{ page.category }} posted on {{ page.date | date: "%b %d, %Y" }}</p>
 
 <p>Here's my problem with people that want to start their own startup but "don't code": What else don't you do?</p>
