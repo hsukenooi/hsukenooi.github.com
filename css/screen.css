@@ -1,4 +1,4 @@
-body { color: #333; line-height: 25px; font-size: 17px; }
+body, li { color: #333; line-height: 25px; font-size: 17px; }
 #body-content { margin: 40px auto 90px; }
 
 #header { border-bottom: 1px solid #ccc; margin-bottom: 50px; padding-bottom: 5px; }
@@ -12,10 +12,11 @@ body { color: #333; line-height: 25px; font-size: 17px; }
 .post h1 small { font-weight: 300; }
 .post h1 a { color: #404040; }
 .post h4 { font-size: 17px; margin-bottom: 15px; font-weight: 300; color: gray; }
-.post .post-meta { color: #ccc; font-size: 13px; line-height: 15px; margin-bottom: 20px; display: block; }
+.post li { margin-bottom: 5px; color: #333; line-height: 25px; font-size: 17px; }
 .post blockquote { margin-left: -18px; }
 .post blockquote p { margin-top: -7px; padding-top: 2px; font-size: 17px; line-height: 25px; }
 blockquote small { margin-top: 8px; }
+.post .post-meta { color: #ccc; font-size: 13px; line-height: 15px; margin-bottom: 20px; display: block; }
 
 #newer_link { float: right; }
 
