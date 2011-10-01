@@ -14,9 +14,8 @@ body, li { color: #333; line-height: 25px; font-size: 17px; color: gray; font-we
 .post h4 { font-size: 17px; margin-bottom: 15px; font-weight: 300; color: gray; }
 .post li { margin-bottom: 5px; color: #333; line-height: 25px; font-size: 17px; color: gray; font-weight: 300; }
 .post blockquote { margin-left: -18px; }
-.post blockquote p { margin-top: -7px; padding-top: 2px; font-size: 17px; line-height: 25px; }
+.post blockquote p { margin: -7px 0 5px; padding-top: 2px; font-size: 17px; line-height: 25px; }
 .post blockquote small { margin-top: 8px; }
-.post blockquote .alone { margin-bottom: 0; }
 .post .post-meta { color: #ccc; font-size: 13px; line-height: 15px; margin-bottom: 20px; display: block; text-transform:capitalize; }
 
 #newer_link { float: right; }

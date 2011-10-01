@@ -4,7 +4,7 @@ title: "Goal"
 category: quote
 ---
 
-<blockquote class="alone">
+<blockquote>
 	<p>Change the world. Build a business. Have fun.</p>
 	<small>Evan Williams</small>
 </blockquote>
