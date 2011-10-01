@@ -4,9 +4,6 @@ title: "Advice from Father"
 category: quote
 ---
 
-h1. <a href="{{ page.url }}">{{ page.title }}</a>
-<p class="post-meta">{{ page.category }} posted on {{ page.date | date: "%b %d, %Y" }}</p>
-
 <blockquote>
 	<p>Happy Birthday. Enjoy your special day and overall be nice to everyone, and everyone will feel you are special.</p>
 	<small>My Father</small>

@@ -4,9 +4,6 @@ title: "Goal"
 category: quote
 ---
 
-h1. <a href="{{ page.url }}">{{ page.title }}</a>
-<p class="post-meta">{{ page.category }} posted on {{ page.date | date: "%b %d, %Y" }}</p>
-
 <blockquote>
 	<p>Change the world. Build a business. Have fun.</p>
 	<small>Evan Williams</small>
