@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Steve Jobs"
+title: "Steve Jobs Passing"
 category: Blog 
 ---
 
