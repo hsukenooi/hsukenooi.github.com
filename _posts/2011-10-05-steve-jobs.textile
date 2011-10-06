@@ -1,10 +1,18 @@
 ---
 layout: post
 title: "Steve Jobs"
-category: Quote
+category: Blog 
 ---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+<p class="post-meta">{{ page.category }} posted on {{ page.date | date: "%b %d, %Y" }}</p>
 
 <blockquote>
 	<p>Stay hungry. Stay foolish.</p>
 	<small>Steve Jobs</small>
 </blockquote>
+
+<p>Steve Jobs passed away today, the world lost a little of it's magic.</p>
+<p>In his Stanford Commencement Speech he mentioned failing Packard and Noyce when he was ousted at Apple. As if it was his responisbility to build on their work. As if he had failed the generation of entrepreneurs before him.</p>
+<p>His greatest legacy may ultimately be inspiring a new generation of crazy ones. It's our responsibility now. To create the future, push things forward. To build on the work of those before us. And what beautiful work it is.</p>
+<p>Thank you, Steve.</p>
