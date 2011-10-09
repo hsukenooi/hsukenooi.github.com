@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Steve Jobs Passing"
+title: "Steve Jobs"
 category: Blog 
 ---
 
@@ -8,6 +8,14 @@ h1. <a href="{{ page.url }}">{{ page.title }}</a>
 <p class="post-meta">{{ page.category }} posted on {{ page.date | date: "%b %d, %Y" }}</p>
 
 <p>Steve Jobs passed away today, the world lost a little of it's magic.</p>
-<p>In his Stanford Commencement Speech he mentioned failing Packard and Noyce when he was ousted at Apple. As if it was his responisbility to the generation of entrepreneurs before him,  to build on their work.</p>
-<p>His greatest legacy may ultimately be inspiring a new generation of crazy ones. It's our responsibility now. To create the future, push things forward. To build on the work of those before us. And what beautiful work it is.</p>
+<p>He said the following during his commencment speech at Stanford in 2005:</p>
+
+<blockquote class="in_post">
+	<p>I felt that I had let the previous generation of entrepreneurs down - that I had dropped the baton as it was being passed to me. I met with David Packard and Bob Noyce and tried to apologize for screwing up so badly.</p>
+</blockquote>
+
+<p>He talks about a responsibility passed down from one generation of entrepreneurs to the next. That responsibility, shared by every generation, is to push the world forward. That's fundamentally what entrepreneurship is about. It's bigger than any single lifetime. Each generation dreams, rebels and builds for the next generation.</p>
+<p>His contribution was so profound and he passed so suddenly. Whose going to push us forward now?</p>
+<p>We are. It's our responibility now. Like it was for him after Packard and Noyce.</p>
+<p>I hoped for more time. More time to marvel at his imagination. More time to learn about doing great work and loving what you do. His greatest legacy won't be the products or the company he built. It will be the inspiration he's given to a new generation of misfits, rebels, crazy ones. The ones who see things differently. The ones who are crazy enough to think they can change the world. The ones that do. Those who continue his work and those before him. What beautiful work it is.</p>
 <p>Thank you, Steve.</p>
