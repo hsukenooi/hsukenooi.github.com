@@ -1,21 +1,22 @@
-body, li { color: #555 !important; line-height: 25px; font-size: 17px; }
-#body-content { margin: 40px auto 90px; }
+body, li { color: #555 !important; }
+#body-content { margin: 40px auto 80px; }
 
-#header { border-bottom: 1px dotted #ccc; margin-bottom: 50px; padding-bottom: 5px; }
-#header h1 { font-size: 18px; margin-bottom: 2px; line-height: 23px; }
+#header { border-bottom: 1px dotted #ccc; margin-bottom: 40px; padding-bottom: 5px; }
+#header h1 { font-size: 18px; margin-bottom: 2px; line-height: 25px; }
 #header h1 a { color: #404040; }
 #header p#description { color: #ccc; }
 
-.post { margin-bottom: 50px; padding-bottom: 50px; border-bottom: 1px dotted #ccc; }
-.post p { line-height: 20px; font-size: 13px; margin-bottom: 15px; }
+.post { margin-bottom: 40px; padding-bottom: 20px; border-bottom: 1px dotted #ccc; }
+.post p { line-height: 20px; font-size: 13px; margin-bottom: 20px; }
 .post h1 { font-size: 18px;  margin-bottom: 1px; line-height: 25px; }
 .post h1 small { font-weight: 300; }
 .post h1 a { color: #404040; }
-.post h4 { font-size: 13px; margin-bottom: 15px; }
-.post li { margin-bottom: 5px; color: #333; line-height: 25px; font-size: 17px; color: gray; font-weight: 300; }
-.post blockquote { margin: 0 0 0 -18px; font-weight: 300; }
-.post blockquote p { margin: -7px 0 5px; padding-top: 2px; font-size: 17px; line-height: 25px; }
+.post h4 { font-size: 13px; margin-bottom: 20px; line-height: 20px; }
+.post li { margin-bottom: 20px; color: #333; }
+.post blockquote p { font-weight: normal; }
 .post blockquote small { margin-top: 8px; }
+	.post blockquote.alone { margin: 0 0 20px -18px; }
+	.post blockquote.alone p { margin: -7px 0 5px; padding-top: 2px; font-size: 17px; line-height: 25px; font-weight: 300; }
 .post .post-meta { color: #ccc; font-size: 13px; line-height: 15px; margin-bottom: 20px; display: block; text-transform:capitalize; }
 
 #newer_link { float: right; }
