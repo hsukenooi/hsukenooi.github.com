@@ -1,5 +1,4 @@
-body { color: #555; }
-body, li { line-height: 25px; font-size: 17px; }
+body, li { color: #555 !important; line-height: 25px; font-size: 17px; }
 #body-content { margin: 40px auto 90px; }
 
 #header { border-bottom: 1px dotted #ccc; margin-bottom: 50px; padding-bottom: 5px; }
