@@ -6,12 +6,7 @@ category: Blog
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 <p class="post-meta">{{ page.category }} posted on {{ page.date | date: "%b %d, %Y" }}</p>
-
-<blockquote class="in_post">
-	<p>I felt that I had let the previous generation of entrepreneurs down - that I had dropped the baton as it was being passed to me. I met with David Packard and Bob Noyce and tried to apologize for screwing up so badly.</p>
-	<small>Steve Jobs</small>
-</blockquote>
-
+<p>"I felt that I had let the previous generation of entrepreneurs down - that I had dropped the baton as it was being passed to me. I met with David Packard and Bob Noyce and tried to apologize for screwing up so badly."</p>
 <p>That's a quote from the <a href="http://www.youtube.com/watch?v=Hd_ptbiPoXM">Stanford Commencement Speech</a> he gave in 2005. He talks about a responsibility passed down from one generation of entrepreneurs to the next. That responsibility, shared by every generation, is to push the world forward. That's fundamentally what entrepreneurship is about. It's bigger than any single lifetime. Each generation dreams, rebels and builds for the next generation.</p>
 <p>His contribution was so profound and he passed so suddenly. Whose going to push us forward now?</p>
 <p>We are. It's our responibility now. Like it was for him after Packard and Noyce.</p>
