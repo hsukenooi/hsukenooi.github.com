@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "Kobe on Losing"
+title: "Losing"
 category: quote
 ---
 
-h1. <a href="{{ page.url }}">{{ page.title }}</a>
-<p class="post-meta">{{ page.category }} posted on {{ page.date | date: "%b %d, %Y" }}</p>
-
-<blockquote>
+<blockquote class="alone">
 	<p>If you're afraid to fail, then you're probably going to fail," he says, laughing. "You know what I mean? Fuck it.</p>
 	<small>Kobe Bryant</small>
 </blockquote>

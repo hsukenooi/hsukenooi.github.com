@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "On Talent"
+title: "Talent"
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+<p class="post-meta">{{ page.category }} posted on {{ page.date | date: "%b %d, %Y" }}</p>
 
 <blockquote>
 	<p>Why do people commit their life to blaming their genes for not granting them that talent they desire with their soul?</p>
@@ -15,5 +17,3 @@ h1. <a href="{{ page.url }}">{{ page.title }}</a>
 <p>You can get good at anything.</p>
 <p>It could require an enormous amount of work, you'll have to make sacrifices, it probably won't be much fun but if you want to be good at something you can be. Taking the position that you can't be serves you no purpose, you're condemned only to those things that you are "talented" in. You won't know challenge, defeat or failure.</p>
 <p>How dreadful.</p>
-
-<span class="post-date"><a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
