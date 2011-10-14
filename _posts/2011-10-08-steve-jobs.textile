@@ -6,7 +6,7 @@ category: Blog
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-<p class="post-meta">{{ page.category }} posted on {{ page.date | date: "%b %d, %Y" }}</p>
+<p class="post-meta">{{ page.date | date: "%b %d, %Y" }}</p>
 
 <blockquote>
 	<p>I felt that I had let the previous generation of entrepreneurs down - that I had dropped the baton as it was being passed to me. I met with David Packard and Bob Noyce and tried to apologize for screwing up so badly.</p>

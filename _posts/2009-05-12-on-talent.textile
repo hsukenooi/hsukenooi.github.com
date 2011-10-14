@@ -5,7 +5,7 @@ title: "Talent"
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-<p class="post-meta">{{ page.category }} posted on {{ page.date | date: "%b %d, %Y" }}</p>
+<p class="post-meta">{{ page.date | date: "%b %d, %Y" }}</p>
 
 <blockquote>
 	<p>Why do people commit their life to blaming their genes for not granting them that talent they desire with their soul?</p>

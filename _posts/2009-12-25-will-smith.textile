@@ -5,7 +5,8 @@ category: video
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
-<p class="post-meta">{{ page.category }} posted on {{ page.date | date: "%b %d, %Y" }}</p>
+
+<p class="post-meta">{{ page.date | date: "%b %d, %Y" }}</p>
 
 <iframe title="YouTube video player" width="450" height="390" src="http://www.youtube.com/embed/pfWGoLj1JCM" frameborder="0" allowfullscreen></iframe>
 <p>I'm not a huge Will Smith fan (Independence Day and Bad Boys were pretty rad though!) but I never knew he had such a awesome attitude about life! I love how he's so fired up about doing good and being unrealistc!</p>
