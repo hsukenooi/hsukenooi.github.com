@@ -1,4 +1,4 @@
-body { font: 100%/1.5 "Helvetica Neue", Helvetica, Tahoma, Arial, sans-serif; color: #404040; }
+body, li { font: 100%/1.5 "Helvetica Neue", Helvetica, Tahoma, Arial, sans-serif; color: #555 !important; }
 #body-content { margin: 2.8em 5.6em 5.6em; }
 
 #header { border-bottom: 1px dotted #ccc; margin-bottom: 2.8em; padding-bottom: .7em; }
@@ -13,8 +13,9 @@ body { font: 100%/1.5 "Helvetica Neue", Helvetica, Tahoma, Arial, sans-serif; co
 .post h1 a { color: #404040; }
 .post h4 { font-size: 1em; margin-bottom: 1.4em; line-height: 1.4em; }
 .post li { margin-bottom: 1.4em; }
+.post blockquote { border-left: .7em solid #EEE; margin-bottom: 1.4em; padding-left: 1.4em; }
 .post blockquote p { font-weight: normal; margin-bottom: .7em; }
-.post blockquote small { margin-top: 0; }
+.post blockquote small { margin-top: 0; letter-spacing: .15em; text-transform:uppercase; font-size: .7em; font-family: Georgia, Times New Roman, Serif; }
 	.post blockquote.alone p { font-size: 16px; line-height: 1.4em; font-weight: 300; }
 .post .post-meta { color: #ccc; line-height: 1.4em; margin-bottom: 1.4em; display: block; text-transform:capitalize; }
 
