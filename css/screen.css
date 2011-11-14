@@ -20,6 +20,3 @@ body, li { font: 100%/1.5 "Helvetica Neue", Helvetica, Tahoma, Arial, sans-serif
 .post .post-meta { color: #ccc; line-height: 1.4em; margin-bottom: 1.4em; display: block; text-transform:capitalize; }
 
 #newer_link { float: right; }
-
-#footer { background: black; color: #fff; padding: .7em 1.4em .7em 0; text-align: right; }
-#footer a { color: #BFBFBF; text-decoration: underline; }
