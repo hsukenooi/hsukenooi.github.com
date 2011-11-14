@@ -1,16 +1,16 @@
-body, li { font: 100%/1.5 "Helvetica Neue", Helvetica, Tahoma, Arial, sans-serif; color: #555 !important; }
+body, li { font: 100%/1.5 "Helvetica Neue", Helvetica, Tahoma, Arial, sans-serif; color: #333 !important; }
 #body-content { margin: 2.8em 5.6em 5.6em; }
 
-#header { border-bottom: 1px dotted #ccc; margin-bottom: 2.8em; padding-bottom: .7em; }
-#header h1 { font-size: 1.38em; margin-bottom: 0; line-height: 1.4em; }
-#header h1 a { color: #404040; }
+#header { border-bottom: 1px dotted #ccc; margin-bottom: 3em; padding-bottom: .75em; }
+#header h1 { font-size: 16px; margin-bottom: 0; line-height: 1.5em; }
+#header h1 a { color: black; }
 #header p#description { color: #ccc; }
 
-.post { margin-bottom: 4.2em; padding-bottom: 2.8em; border-bottom: 1px dotted #ccc; }
-.post p { line-height: 1.4em; font-size: 1em; margin-bottom: 1.4em; }
-.post h1 { font-size: 1.38em; margin-bottom: 0; line-height: 1.4em; }
+.post { margin-bottom: 3em; padding-bottom: 1.5em; border-bottom: 1px dotted #ccc; }
+.post p { line-height: 1.5em; font-size: 16px; margin-bottom: 1.5em; }
+.post h1 { font-size: 16px; margin-bottom: 0; line-height: 1.5em; }
 .post h1 small { font-weight: 300; }
-.post h1 a { color: #404040; }
+.post h1 a { color: black; }
 .post h4 { font-size: 1em; margin-bottom: 1.4em; line-height: 1.4em; }
 .post li { margin-bottom: 1.4em; }
 .post blockquote { border-left: .7em solid #EEE; margin-bottom: 1.4em; padding-left: 1.4em; }
