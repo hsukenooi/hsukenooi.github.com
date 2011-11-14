@@ -1,5 +1,5 @@
 body, li { font: 100%/1.5 "Helvetica Neue", Helvetica, Tahoma, Arial, sans-serif; color: #333 !important; }
-#body-content { margin: 2.8em 5.6em 5.6em; }
+#body-content { margin: 2.8em auto 5.6em; }
 
 #header { border-bottom: 1px dotted #ccc; margin-bottom: 3em; padding-bottom: .75em; }
 #header h1 { font-size: 16px; margin-bottom: 0; line-height: 1.5em; }
@@ -7,7 +7,7 @@ body, li { font: 100%/1.5 "Helvetica Neue", Helvetica, Tahoma, Arial, sans-serif
 #header p#description { color: #ccc; }
 
 .post { margin-bottom: 3em; padding-bottom: 1.5em; border-bottom: 1px dotted #ccc; }
-.post p { line-height: 1.5em; font-size: 16px; margin-bottom: 1.5em; }
+.post p { line-height: 1.5em; font-size: 13px; margin-bottom: 1.5em; }
 .post h1 { font-size: 16px; margin-bottom: 0; line-height: 1.5em; }
 .post h1 small { font-weight: 300; }
 .post h1 a { color: black; }
