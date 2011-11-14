@@ -11,12 +11,12 @@ body, li { font: 100%/1.5 "Helvetica Neue", Helvetica, Tahoma, Arial, sans-serif
 .post h1 { font-size: 16px; margin-bottom: 0; line-height: 1.5em; }
 .post h1 small { font-weight: 300; }
 .post h1 a { color: black; }
-.post h4 { font-size: 1em; margin-bottom: 1.4em; line-height: 1.4em; }
-.post li { margin-bottom: 1.4em; }
-.post blockquote { border-left: .7em solid #EEE; margin-bottom: 1.4em; padding-left: 1.4em; }
-.post blockquote p { font-weight: normal; margin-bottom: .7em; }
+.post h4 { font-size: 1em; margin-bottom: 1.5em; line-height: 1.5em; }
+.post li { margin-bottom: 1.5em; }
+.post blockquote { border-left: .75em solid #EEE; margin-bottom: 1.5em; padding-left: 1.5em; }
+.post blockquote p { font-weight: normal; margin-bottom: .75em; }
 .post blockquote small { margin-top: 0; letter-spacing: .15em; text-transform:uppercase; font-size: .7em; font-family: Georgia, Times New Roman, Serif; }
-	.post blockquote.alone p { font-size: 16px; line-height: 1.4em; font-weight: 300; }
-.post .post-meta { color: #ccc; line-height: 1.4em; margin-bottom: 1.4em; display: block; text-transform:capitalize; }
+	.post blockquote.alone p { font-size: 16px; line-height: 1.5em; font-weight: 300; }
+.post .post-meta { color: #ccc; line-height: 1.5em; margin-bottom: 1.5em; display: block; text-transform:capitalize; }
 
 #newer_link { float: right; }
