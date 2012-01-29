@@ -12,6 +12,6 @@ p { margin: 1.125em 0; }
 .post blockquote p { margin-bottom: .75em; }
 .post blockquote small { margin-top: 0; letter-spacing: .15em; text-transform:uppercase; font-family: Georgia, Times New Roman, Serif; }
 	.post blockquote.alone p { line-height: 1.5em; font-weight: 300; }
-.post .post-meta { color: #ccc; margin: 0 0 1em; display: block; text-transform:capitalize; }
+.post .post-meta { color: #ccc; margin: 0 0 1em; display: none; text-transform:capitalize; }
 
 #newer_link { float: right; }
