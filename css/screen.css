@@ -1,22 +1,17 @@
-body, li { font: 100%/1.5 "Helvetica Neue", Helvetica, Tahoma, Arial, sans-serif; color: #444 !important; }
-#body-content { margin: 2.8em 5.6em 5.6em; }
-
-#header { border-bottom: 1px dotted #ccc; margin-bottom: 3em; padding-bottom: .75em; }
-#header h1 { font-size: 16px; margin-bottom: 0; line-height: 1.5em; }
-#header h1 a { color: black; }
-#header p#description { color: #ccc; }
-
-.post { margin-bottom: 3em; padding-bottom: 1.5em; border-bottom: 1px dotted #ccc; }
-.post p { line-height: 1.5em; font-size: 13px; margin-bottom: 1.5em; }
-.post h1 { font-size: 16px; margin-bottom: 0; line-height: 1.5em; }
-.post h1 small { font-weight: 300; }
-.post h1 a { color: black; }
-.post h4 { font-size: 1em; margin-bottom: 1.5em; line-height: 1.5em; }
-.post li { margin-bottom: 1.5em; }
-.post blockquote { border-left: .35em solid #EEE; margin-bottom: 1.5em; padding-left: .75em; }
-.post blockquote p { font-weight: normal; margin-bottom: .75em; }
-.post blockquote small { margin-top: 0; letter-spacing: .15em; text-transform:uppercase; font-size: .7em; font-family: Georgia, Times New Roman, Serif; }
-	.post blockquote.alone p { font-size: 16px; line-height: 1.5em; font-weight: 300; }
-.post .post-meta { color: #ccc; line-height: 1.5em; margin-bottom: 1.5em; display: block; text-transform:capitalize; }
+body, li { font: 16px/1.5 Georgia, Arial, serif; color: #4D4D4D;  margin: 3.25em 0; }
+a { text-decoration: none; border-bottom: 1px solid #ccc; color: #444; }
+p { margin: 1.125em 0; }
+#body-content { margin: 0 auto; width: 540px; }
+.post { margin-bottom: 2.625em; padding-bottom: 1.5em; border-bottom: 1px dotted #ccc; }
+.post h1 { font-family: Helvetica Neue, Arial; font-size: 22px; margin-bottom: 0; line-height: 1.36em; }
+.post h1 a { color: #444; text-decoration: none; border-bottom: 1px solid #ccc; }
+.post h1 a:hover { color: #ee3f25; }
+.post h4 { font-size: 1em; margin-bottom: 1.125em; line-height: 1.5em; }
+.post li { margin-bottom: 1em; }
+.post blockquote { border-left: .375em solid #EEE; margin: 0 0 1em; padding-left: 1em; }
+.post blockquote p { margin-bottom: .75em; }
+.post blockquote small { margin-top: 0; letter-spacing: .15em; text-transform:uppercase; font-family: Georgia, Times New Roman, Serif; }
+	.post blockquote.alone p { line-height: 1.5em; font-weight: 300; }
+.post .post-meta { color: #ccc; margin: 0 0 1em; display: block; text-transform:capitalize; }
 
 #newer_link { float: right; }
