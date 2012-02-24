@@ -14,5 +14,4 @@ h1, h4 { font-family: "adelle"; }
 .post blockquote small { margin-top: 0; letter-spacing: .15em; text-transform:uppercase; font-family: Georgia, Times New Roman, Serif; }
 	.post blockquote.alone p { line-height: 1.5em; font-weight: 300; }
 .post .post-meta { color: #ccc; margin: 0 0 1em; display: none; text-transform:capitalize; }
-
 #newer_link { float: right; }
