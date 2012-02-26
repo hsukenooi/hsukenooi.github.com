@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Goal"
+title: "My Goals"
 category: quote
 ---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
 <blockquote class="alone">
 	<p>Change the world. Build a business. Have fun.</p>
