@@ -6,8 +6,6 @@ category: blog
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-<p class="post-meta">{{ page.date | date: "%b %d, %Y" }}</p>
-
 <p>Lots of people have written about the benefits or disadvantages about doing a startup in x place compared to y place. I frankly don't think it matters as much as people seem to think it does based on the number of articles written about it. I'm not about to add to that list.</p>
 <p>What I have been thinking about is what makes some places more active than others?</p>
 <h4>Education</h4>

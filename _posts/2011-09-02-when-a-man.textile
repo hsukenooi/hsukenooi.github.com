@@ -5,8 +5,6 @@ category: Quote
 ---
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-<p class="post-meta">{{ page.date | date: "%b %d, %Y" }}</p>
-
 <blockquote class="alone">
 	<p>When a man walks into a room he brings his whole life with him. He has a million reasons for being anywhere, just ask him. If you listen he'll tell you how he got there, how he forgot where he was going, and how he woke up. If you listen he'll tell you about the time he thought he was an angel, or dreamt of being perfect, and then he'll smile with wisdom, content that he realized the world isn't perfect. We're flawed because we want so much more. We're ruined because we get these things and wish for what we had.</p>
 	<small>Donald Draper</small>
