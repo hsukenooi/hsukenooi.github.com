@@ -5,8 +5,6 @@ category: quote
 ---
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-<p class="post-meta">{{ page.date | date: "%b %d, %Y" }}</p>
-
 <p>From Good Will Hunting:</p>
 <blockquote>
 <p>So if I asked you about art, you'd probably give me the skinny on every art book ever written. Michelangelo, you know a lot about him. Life's work, political aspirations, him and the pope, sexual orientations, the whole works, right? But I'll bet you can't tell me what it smells like in the Sistine Chapel. You've never actually stood there and looked up at that beautiful ceiling; seen that.</p>
