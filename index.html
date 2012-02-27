@@ -12,7 +12,7 @@ title: "Blog"
 	{% for post in paginator.posts %}
 		<div class="post">
 			<div class="timeline">
-				<a href="{{page.url}}" class="no-underline">{{ post.date | date: "%b %d, %Y" }}</a>
+				<a href="{{post.url}}" class="no-underline">{{ post.date | date: "%b %d, %Y" }}</a>
 			</div>
 			{{ post.content }}
 		</div>
