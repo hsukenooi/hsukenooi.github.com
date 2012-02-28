@@ -1,0 +1,10 @@
+---
+layout: post
+title: "The Design Ethos of Deiter Rams"
+category: design 
+---
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/A6-wA-7QIeE?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+
+Design should not dominate things, not dominate people, it should help people, that's the spot.
