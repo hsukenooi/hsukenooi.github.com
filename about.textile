@@ -5,5 +5,6 @@ title: "About"
 
 h1. {{ page.title }}
 
-<p>I live in Seattle, Washington where I attended the University of Washington majoring in Mathematics and Statistics. I'm co-founder of <a href="http://decide.com">Decide</a>.</p>
+<p>I live in Seattle, Washington where I attended the University of Washington majoring in Mathematics and Statistics.</p>
+<p>I'm co-founder of <a href="http://decide.com">Decide.com</a>.</p>
 <p>You should follow me on Twitter: <a href="http://twitter.com/hsukenooi">@hsukenooi</a></p>
