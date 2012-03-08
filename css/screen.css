@@ -35,8 +35,9 @@ h1, h4 { font-family: "adelle"; }
 .post blockquote p { margin-bottom: .75em; }
 .post blockquote small { margin-top: 0; letter-spacing: .15em; text-transform:uppercase; font-family: Georgia, Times New Roman, Serif; }
 	.post blockquote.alone p { line-height: 1.5em; font-weight: 300; }
+.post .post-date, .post .post-date a { color: #999; }
 
 #pagination { padding-bottom: 5.625em; }
 #newer_link { float: right; }
-a#back-blog { margin: -2.625em 0 5.625em; padding: 0.75em; background: #000; color: #fff; border-radius: 6px; display: block; width: 118px; }
+a#back-blog { margin: 0 0 5.625em; padding: 0.75em; background: #000; color: #fff; border-radius: 6px; display: block; width: 118px; }
 a#back-blog:hover { background: #2AA7FA; }
