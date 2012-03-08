@@ -17,25 +17,24 @@ p { margin: 1.5em 0; }
 h1, h4 { font-family: "adelle"; }
 
 .no-underline { border-bottom: none; }
+.content { margin: 0 auto; width: 540px; }
 
-#body-content { margin: 2.25em auto; width: 540px; }
+#header{ background: #efefef; padding: 1.125em 0; color: #333; border-bottom: 1px solid #ccc; }
+#header a#picture { float: left; border-bottom: none; margin-right: 0.75em; position: relative; bottom: 0.75em; }
+#body-content { margin: 2.25em auto; }
 
-a#picture { float: left; position: relative; right: 23px; border-bottom: none; }
-span#name { float: left; position: relative; right: 6px; top:6px; display: none; line-height: 1.125em; }
-a#picture:hover + span#name { display: block; }
-
-#posts { border-left: 1px solid #eee; padding: 4.5em 0 0 2.625em; }
-.post { margin-bottom: 2.625em; padding-bottom: 1.5em; position: relative; }
+#posts { padding: 1.125em 0 3.375em 0; }
+.post { margin-bottom: 4.125em; padding-bottom: 3.375em; position: relative; border-bottom: 1px dotted #ccc; }
 .post h1 { font-size: 22px; line-height: 1.64em; }
 .post h1 a { color: #444; text-decoration: none; border-bottom: 1px solid #ccc; padding-bottom: 3px; }
+.post .link-arrow { color: #ccc; font-size: 18px; margin-left: 12px; }
+.post h1:hover .link-arrow { color: #2AA7FA; }
 .post h4 { font-size: 1em; margin-bottom: 1.125em; line-height: 1.5em; }
 .post li { margin-bottom: 1em; }
 .post blockquote { border-left: .375em solid #EEE; margin: 0 0 1em; padding-left: 1em; }
 .post blockquote p { margin-bottom: .75em; }
 .post blockquote small { margin-top: 0; letter-spacing: .15em; text-transform:uppercase; font-family: Georgia, Times New Roman, Serif; }
 	.post blockquote.alone p { line-height: 1.5em; font-weight: 300; }
-.post .timeline { position: absolute; left: -141px; top: 5px; background: #2AA7FA; color: #fff; width: 90px; padding: 0 .75em 0 0; font-size: .8125em; border-top-left-radius: 6px; border-bottom-left-radius: 6px; text-align: right; }
-.post .timeline a { color: #fff; }
 
 #pagination { padding-bottom: 5.625em; }
 #newer_link { float: right; }

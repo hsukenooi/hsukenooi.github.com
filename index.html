@@ -3,17 +3,9 @@ layout: default
 title: "Hsu Ken Ooi"
 ---
 
-<div id="header">
-	<a id="picture" href="/"><img src="https://s3.amazonaws.com/hsukenooi/me.png"/></a>
-	<span id="name">Hsu Ken Ooi<br><span style="color: #999">Co-Founder of Decide.com</span></span>
-</div>
-
 <div id="posts">
 	{% for post in paginator.posts %}
 		<div class="post">
-			<div class="timeline">
-				<a href="{{post.url}}" class="no-underline">{{ post.date | date: "%b %d, %Y" }}</a>
-			</div>
 			{{ post.content }}
 		</div>
 	{% endfor %}

@@ -2,15 +2,8 @@
 layout: default
 ---
 
-<div id="header">
-	<a id="picture" href="/"><img src="https://s3.amazonaws.com/hsukenooi/me.png"/></a>
-	<span id="name">Hsu Ken Ooi<br><span style="color: #999">Co-Founder of Decide.com</span></span>
-</div>
 <div id="posts">
 	<div class="post">
-		<div class="timeline">
-			<a href="{{page.url}}" class="no-underline">{{ page.date | date: "%b %d, %Y" }}</a>
-		</div>
 		{{ content }}
 	</div>
 	<a id="back-blog" href="/" class="no-underline">&larr; Back to Blog</a>
