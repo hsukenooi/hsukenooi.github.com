@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Oink Shutting Down"
+category: post 
+---
+h1. <a href="http://www.oink.com/">{{ page.title }}</a><span class="link-arrow">&rarr;</span>
+
+<blockquote>
+	<p>We started Milk Inc. (the company behind Oink) to rapidly build and test out new ideas. Oink was our first test and, in preparing to move onto the next project, we've decided to shut it down to help focus our efforts.</p>
+</blockquote>
+<p>This is fantastic. Not that the app is shutting down but that they have the discipline to shut it down. Too many companies keep adding features to a product thinking that the next feature will get them traction. Throwing good money after bad, I believe the saying goes. If the fundamental idea of your product doesn't work, an additional feature isn't going to save you.</p>
+<p>Use what you've learned and work on the next idea.</p>
