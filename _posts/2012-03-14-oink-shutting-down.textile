@@ -10,3 +10,4 @@ h1. <a href="http://www.oink.com/">{{ page.title }}</a><span class="link-arrow">
 </blockquote>
 <p>This is fantastic. Not that the app is shutting down (good people spent a lot of effort making it) but that they have the discipline to shut it down. Too many companies keep adding features to a product thinking that the next feature will get them traction. Throwing good money after bad, I believe the saying goes. If the fundamental idea of your product doesn't work, an additional feature isn't going to save you.</p>
 <p>Use what you've learned and work on the next idea.</p>
+<p>Update: Apparently there was more to the story, <a href="http://techcrunch.com/2012/03/15/winning-a-bidding-war-with-facebook-google-picks-up-the-entire-milk-team/">Google acquires Milk</a>.</p>
