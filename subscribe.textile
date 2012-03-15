@@ -6,6 +6,6 @@ title: "Subscribe"
 h1. {{ page.title }}
 
 <ul>
-	<li>RSS &mdash; <a href="/atom.xml">http://hsukenooi.com/atom.xml</a></li>
+	<li>RSS &mdash; <a href="/atom.xml">http://feeds.feedburner.com/hsukenooi</a></li>
 	<li>Twitter &mdash; <a href="http://twitter.com">@hsukenooi</a></li>
 </ul>
