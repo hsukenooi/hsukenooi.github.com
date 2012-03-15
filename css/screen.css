@@ -1,6 +1,7 @@
 /*
 / 12px = 0.75em
 / 13px = 0.8125em
+/ 14px = 0.875em
 / 18px = 1.125em
 / 30px = 1.875em
 / 42px = 2.625em
@@ -18,8 +19,11 @@ h1, h4 { font-family: "adelle"; }
 
 .no-underline { border-bottom: none; }
 .content { margin: 0 auto; width: 540px; }
+.round { border-radius: 3px; }
 
 #header{ background: #efefef; padding: 1.125em 0; color: #333; border-bottom: 1px solid #ccc; }
+#header #subscribe { position: absolute; right: 24px; top: 0.875em; padding: 3px 12px; background: #000; color: #fff; }
+#header #subscribe:hover { background: #2AA7FA; }
 #header a#picture { float: left; border-bottom: none; margin-right: 0.75em; position: relative; bottom: 0.75em; }
 #body-content { margin: 2.25em auto; }
 
