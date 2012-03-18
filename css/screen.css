@@ -1,8 +1,11 @@
 /*
+/  2px = 0.125em
+/  6px = 0.375em
 / 12px = 0.75em
 / 13px = 0.8125em
 / 14px = 0.875em
 / 18px = 1.125em
+/ 22px = 1.375em
 / 30px = 1.875em
 / 42px = 2.625em
 / 54px = 3.375em
@@ -20,6 +23,8 @@ h1, h4 { font-family: "adelle"; }
 .no-underline { border-bottom: none; }
 .content { margin: 0 auto; width: 540px; }
 .round { border-radius: 3px; }
+.link-arrow { color: #ccc; }
+.demphasis { color: #999; }
 
 #header{ background: #efefef; padding: 1.125em 0; color: #333; border-bottom: 1px solid #ccc; }
 #header #subscribe { position: absolute; right: 24px; top: 0.875em; padding: 3px 12px; background: #000; color: #fff; }
@@ -29,12 +34,13 @@ h1, h4 { font-family: "adelle"; }
 
 #posts { padding: 1.125em 0; }
 .post { margin-bottom: 4.125em; padding-bottom: 3.375em; position: relative; border-bottom: 1px dotted #ccc; }
-.post h1 { font-size: 22px; line-height: 1.64em; }
+.post h1 { font-size: 1.375em; line-height: 1.64em; }
 .post h1 a { color: #444; text-decoration: none; border-bottom: 1px solid #ccc; padding-bottom: 3px; }
-.post .link-arrow { color: #ccc; font-size: 18px; margin-left: 12px; }
-.post h1:hover .link-arrow { color: #2AA7FA; }
+.post h1 .link-arrow { font-size: 1.125em; margin-left: 0.75em; position: relative; top: 0.125em; }
+.post h1:hover .link-arrow, .post p:hover .link-arrow { color: #2AA7FA; }
 .post h4 { font-size: 1em; margin-bottom: 1.125em; line-height: 1.5em; }
 .post li { margin-bottom: 1em; }
+.post .link-arrow { font-size: 1em; margin-left: 0.375em; }
 .post blockquote { border-left: .375em solid #EEE; margin: 0 0 1em; padding-left: 1em; }
 .post blockquote p { margin-bottom: .75em; }
 .post blockquote small { margin-top: 0; letter-spacing: .15em; text-transform:uppercase; font-family: Georgia, Times New Roman, Serif; }

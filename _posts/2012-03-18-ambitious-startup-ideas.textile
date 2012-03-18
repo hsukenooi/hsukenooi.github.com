@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Frighteningly Ambitious Startup Ideas"
+category: links
+---
+h1. <a href="http://paulgraham.com/ambitious.html/">{{ page.title }}</a><span class="link-arrow">&rarr;</span>
+
+<p>From <a href="http://paulgraham.com/ambitious.html/">paulgraham.com</a>:</p>
+
+<blockquote>
+	<p>Maybe it's a bad idea to have really big ambitions initially, because the bigger your ambition, the longer it's going to take, and the further you project into the future, the more likely you'll get it wrong.</p>
+</blockquote>
+<p>Working on a post about this but I'm becoming increasingly convinced that trying to come up with a really big idea from the beginning is not only implausible but detrimental.</p>
+
+<blockquote>
+	<p>Apple's revenues may continue to rise for a long time, but as Microsoft shows, revenue is a lagging indicator in the technology business.</p>
+</blockquote>
+<p>That crystallized for me the feeling I get when people defend how relevant a company is based on revenue. Especially for very large technology companies, it's a slow, invisible death.</p>
