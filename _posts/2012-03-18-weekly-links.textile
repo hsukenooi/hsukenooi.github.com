@@ -5,6 +5,8 @@ category: links
 ---
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
+<p>I read threw my entire <a href="http://instapaper.com">Instapaper</a> queue yesterday. These were worth sharing:</p>
+
 <ul>
 	<li>
 		<a href="http://paulgraham.com/ambitious.html">Frighteningly Ambitious Startup Ideas</a><span class="link-arrow">&rarr;</span>
