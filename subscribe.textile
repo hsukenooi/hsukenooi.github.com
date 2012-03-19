@@ -5,7 +5,10 @@ title: "Subscribe"
 
 h1. {{ page.title }}
 
-<ul>
-	<li>RSS &mdash; <a href="/atom.xml">http://feeds.feedburner.com/hsukenooi</a></li>
-	<li>Twitter &mdash; <a href="http://twitter.com">@hsukenooi</a></li>
+<ul id="subscribe-list">
+	<li id="rss">RSS &mdash; <a href="/atom.xml">http://feeds.feedburner.com/hsukenooi</a></li>
+	<li id="twitter">Twitter &mdash; <span id="follow-button"><a href="https://twitter.com/hsukenooi" class="twitter-follow-button" data-show-count="true">@hsukenooi</a></span></li>
+	<li id="email">Email &mdash; <a href="http://feedburner.google.com/fb/a/mailverify?uri=hsukenooi&amp;loc=en_US">Subscribe</a></li>
 </ul>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
