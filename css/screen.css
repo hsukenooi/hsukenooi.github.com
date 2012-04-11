@@ -27,7 +27,7 @@ h1, h4 { font-family: "adelle"; }
 .demphasis { color: #999; }
 
 #header{ background: #efefef; padding: 1.125em 0; color: #333; border-bottom: 1px solid #ccc; }
-#header #subscribe { position: absolute; right: 24px; top: 0.875em; padding: 3px 12px; background: #000; color: #fff; }
+#header #subscribe { position: absolute; right: 24px; top: 0.875em; padding: 3px 12px; background: #000; color: #fff; border-bottom: 0; }
 #header #subscribe:hover { background: #2AA7FA; }
 #header a#picture { float: left; border-bottom: none; margin-right: 0.75em; position: relative; bottom: 0.75em; }
 #body-content { margin: 2.25em auto; }
@@ -45,6 +45,16 @@ h1, h4 { font-family: "adelle"; }
 .post blockquote p { margin-bottom: .75em; }
 .post blockquote small { margin-top: 0; letter-spacing: .15em; text-transform:uppercase; font-family: Georgia, Times New Roman, Serif; }
 	.post blockquote.alone p { line-height: 1.5em; font-weight: 300; }
+.post .post-type {
+	display: block;
+	padding: 0 0.375em;
+	margin-left: 0.375em;
+	background: #ccc;
+	color: #fff;
+}
+.post .post-date, .post .post-type { 
+	float: left; 
+}
 .post .post-date, .post .post-date a { color: #999; }
 .post .post-date a:hover { color: #2AA7FA; }
 
