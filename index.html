@@ -7,8 +7,7 @@ title: "Hsu Ken Ooi"
 	{% for post in paginator.posts %}
 		<div class="post">
 			{{ post.content }}
-			<span class="post-date">Posted <a href="{{ post.url }}">{{ post.date | date: "%b %d, %Y" }}</a> as a </span>
-			<span class="post-type round">{{ post.category }}</span>
+			<span class="post-date">Posted <a href="{{ post.url }}">{{ post.date | date: "%b %d, %Y" }}</a></span>
 		</div>
 	{% endfor %}
 </div>

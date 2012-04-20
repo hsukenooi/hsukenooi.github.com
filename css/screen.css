@@ -14,10 +14,10 @@
 / 90px = 5.625em
 */
 
-body, li { font-size: 16px; line-height:1.5em; font-family: Georgia, Serif; color: #4D4D4D; margin: 0; }
+body, li { font-size: 16px; line-height:1.75em; font-family: Georgia, Serif; color: #4D4D4D; margin: 0; }
 a { text-decoration: none; border-bottom: 1px solid #ccc; color: #444; }
-a:hover, .post h1 a:hover { color: #2AA7FA; border-color: #2AA7FA; }
-p { margin: 1.5em 0; }
+a:hover, .post h1 a:hover { color: #2AA7FA; }
+p { margin: 1.75em 0; }
 h1, h4 { font-family: "adelle", Helvetica Neue, Arial, Sans-Serif; }
 
 .no-underline { border-bottom: none; }
@@ -38,23 +38,13 @@ h1, h4 { font-family: "adelle", Helvetica Neue, Arial, Sans-Serif; }
 .post h1 a { color: #444; text-decoration: none; border-bottom: 1px solid #ccc; padding-bottom: 3px; }
 .post h1 .link-arrow { font-size: 1.125em; margin-left: 0.75em; position: relative; top: 0.125em; }
 .post h1:hover .link-arrow, .post p:hover .link-arrow { color: #2AA7FA; }
-.post h4 { font-size: 1em; margin-bottom: 1.125em; line-height: 1.5em; }
+.post h4 { font-size: 1em; margin-bottom: 1.125em; line-height: 1.75em; }
 .post li { margin-bottom: 1em; }
 .post .link-arrow { font-size: 1em; margin-left: 0.375em; }
 .post blockquote { border-left: .375em solid #EEE; margin: 0 0 1em; padding-left: 1em; }
 .post blockquote p { margin-bottom: .75em; }
 .post blockquote small { margin-top: 0; letter-spacing: .15em; text-transform:uppercase; font-family: Georgia, Times New Roman, Serif; }
-	.post blockquote.alone p { line-height: 1.5em; font-weight: 300; }
-.post .post-type {
-	display: block;
-	padding: 0 0.375em;
-	margin-left: 0.375em;
-	background: #ccc;
-	color: #fff;
-}
-.post .post-date, .post .post-type { 
-	float: left; 
-}
+	.post blockquote.alone p { line-height: 1.75em; font-weight: 300; }
 .post .post-date, .post .post-date a { color: #999; }
 .post .post-date a:hover { color: #2AA7FA; }
 
