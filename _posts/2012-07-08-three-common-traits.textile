@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Design Work: Three Common Traits"
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+From the <a href="http://frankchimero.com/">Shape of Design</a> by Frank Chimero
+<blockquote>All design work seems to have three common traits: there is a message to the work, the tone of that message, and the format that the work takes. Successful design has all three elements working in co-dependence to achieve a whole greater than the sum of the individual parts.</blockquote>
+
+The book is beautiful and I'm enjoying it. Thought this passage was a useful framework to keep in mind. These are your levers.
