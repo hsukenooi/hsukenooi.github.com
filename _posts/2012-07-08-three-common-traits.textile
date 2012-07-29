@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Design Work: Three Common Traits"
+title: "Three Common Traits"
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
