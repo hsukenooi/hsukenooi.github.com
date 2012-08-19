@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Origin of a Slogan"
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+<blockquote>
+But then, just when Wieden was about to give up and go to sleep, he started thinking about a murdered named Gary Gilmore who had been executed in 1977. "He just popped into my mind," Wieden says. "And so it's the middle of the night, and I'm sitting at my desk, and I'm thinking about how Gilmore died. This was in Utah, and they dragged Gilmore out in front of the firing squad. Before they put the hood over his head, the chaplain asks Gilmore if he has any last works. And he pauses and says: "Let's do it" and I remember thinking, "That is so fucking courageous." Here's this guy calling for his own death. And then, the next thing I know, I'm thinking about my shoe commercials. And so I start playing around with the words, and I realized that I didn't like the way it was said, actually so I made it a little different. I wrote "Just Do It" on a piece of paper and as soon as I saw it, I knew. That was my slogan."
+</blockquote>
+
+Dan Wieden from <a href="http://www.wk.com/">Weiden+Kennedy</a> on how he came up with Nike's famous slogan the night before he was supposed to present. 
+
+From <a href="http://www.amazon.com/Imagine-Creativity-Works-Hardcover-Edition/dp/B007QRI1UQ/ref=sr_1_2?ie=UTF8&qid=1345342236&sr=8-2&keywords=imagine">Imagine</a> by Jonah Lehrer.
