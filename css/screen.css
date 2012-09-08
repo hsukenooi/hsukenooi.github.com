@@ -9,6 +9,9 @@ a {
 	color: #df4747; 
 	text-decoration: none; 
 }
+a:hover {
+	border-bottom: 1px solid #e56c6c;
+}
 a:hover, 
 .post h1 a:hover { 
 	color: #df4747; 
@@ -28,6 +31,7 @@ header {
 	text-align: center;
 	padding-bottom: 18px;
 	overflow: hidden;
+	height: 24px;
 }
 header a#title {
 	color: #333;
