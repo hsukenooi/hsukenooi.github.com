@@ -29,6 +29,14 @@ header {
 	padding-bottom: 18px;
 	overflow: hidden;
 }
+header a#title {
+	color: #333;
+	float: left;
+	text-decoration: none;
+}
+header a#title:hover {
+	color: #df4747; 
+}
 header #navigation {
 	float: right;
 	margin: 0;
