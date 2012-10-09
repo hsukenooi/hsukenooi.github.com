@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "A Few Things You Should Know"
+title: "A Letter to My God Son"
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
-
-The following is a letter I wrote to my God Son.
 
 I'm writing this letter before your first and my thirtieth birthday for you to open on your eighteenth. It's an idea my father told me about when I was a teenager but never did.
 
