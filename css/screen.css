@@ -16,64 +16,63 @@ a:hover,
 .post h1 a:hover { 
 	color: #df4747; 
 }
-p { 
-	margin: 0 0 24px; 
-}
-
 .no-underline { border-bottom: none; }
-.content { margin: 0 auto; width: 540px; }
 .round { border-radius: 3px; }
 .link-arrow { color: #ccc; }
 .demphasis { color: #999; }
 
-header {
-	border-bottom: 1px solid #ccc;
-	text-align: center;
-	padding-bottom: 18px;
-	overflow: hidden;
-	height: 24px;
-}
-header a#title {
-	color: #333;
+#side-bar {
+	font-size: 13px;
+	line-height: 18px;
+	width: 180px;
+	position: relative;
 	float: left;
-	text-decoration: none;
-}
-header a#title:hover {
-	color: #df4747; 
-}
-header #navigation {
-	float: right;
-	margin: 0;
-}
-header #navigation li {
-	display: inline-block;
-	margin-left: 24px;
-}
-#body-content { 
-	margin: 36px auto; 
+	margin-left: -240px;
 }
 
-#posts { 
-	padding: 24px 0; 
+#side-bar #avatar {
+	-webkit-border-radius: 100%;
+	border-radius: 100%;
+	height: 100%;
+	width: 100%;
 }
+
+#side-bar #name {
+	display: block;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 24px;
+	margin: 12px 0 0;
+}
+
+#side-bar #name a:hover {
+	border: none;
+}
+
+
+#side-bar #description {
+	margin-top: 0;
+	color: #999;
+}
+
+#body-content { 
+	margin: 54px auto;
+	width: 540px; 
+}
+
 .post { 
 	margin-bottom: 54px; 
 	padding-bottom: 36px; 
 	position: relative; 
 	border-bottom: 1px solid #eee; 
 }
+.post p { 
+	margin: 0 0 24px; 
+}
 .post h1 { 
 	font-size: 36px; 
 	line-height: 48px; 
-	text-align: center;
-	margin: 24px 0 0;
-}
-.post h1::after {
-	content: ' ';
-	display: block; 
-	border-top: 1px solid #ccc;
-	margin: 36px auto;
-	width: 42px;
+	margin: 0 0 24px;
 }
 .post h1 a { 
 	color: #444; 
