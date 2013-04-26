@@ -4,7 +4,7 @@ title: "Jobs"
 ---
 
 # {{ page.title }}
-These are job postings that friends have sent me. If you're interested in any of these jobs let me know and I'll get you in touch with the right person. 
+These are job postings friends have sent me. If something sounds interesting, let me know and I'll get you in touch with the right person. 
 
 * [UI / UX Designer](http://arrayhealth.com/careers/ui-ux-designer), Array Health
 * [Full Stack Software Engineer](http://www.realself.com/about/jobs#dev), Realself.com
