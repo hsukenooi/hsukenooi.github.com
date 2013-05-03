@@ -5,6 +5,8 @@ title: "Beginner Mistakes"
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
+<p class="subheadline">A few things I would've done differently at my first startup.</p>
+
 Prior to working on what would become <a href="https://decide.com">Decide.com</a>, we spent 18 months working on a dozen other ideas that didn't work. One of the ideas was for a social sharing job post didn't get a single user. Suffice to say, we failed a lot.
 
 Our first project was Eggsprout, a tool that aggregated and mined resumes to create a comprehensive career map. Think <a href="https://medium.com/r/?url=http%3A%2F%2Fblog.linkedin.com%2F2010%2F10%2F04%2Flinkedin-career-explorer%2F">LinkedIn's Career Explorer</a> but 4 years earlier. We wanted to be able to say things like 20% of people that majored in Computer Science at the University of Washington worked at Microsoft after graduating and within 5 years 10% of the original 20% had been promoted. We were recent college graduates that wanted data to make career decisions. Maybe other people did too.
