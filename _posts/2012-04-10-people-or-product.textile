@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "People Or Product"
+excerpt: Why I hated myself for using a great product made by mean people over a ok product made by nice people. 
 category: short
 ---
 

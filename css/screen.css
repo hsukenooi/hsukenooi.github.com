@@ -20,7 +20,6 @@ a:hover,
 .round { border-radius: 3px; }
 .link-arrow { color: #ccc; }
 .demphasis { color: #999; }
-
 #side-bar {
 	font-size: 13px;
 	line-height: 18px;
@@ -29,14 +28,12 @@ a:hover,
 	float: left;
 	margin-left: -240px;
 }
-
 #side-bar #avatar {
 	-webkit-border-radius: 100%;
 	border-radius: 100%;
 	height: 100%;
 	width: 100%;
 }
-
 #side-bar #name {
 	display: block;
 	font-size: 16px;
@@ -44,22 +41,41 @@ a:hover,
 	line-height: 24px;
 	margin: 12px 0 0;
 }
-
 #side-bar #name a:hover {
 	border: none;
 }
-
-
 #side-bar #description {
 	margin-top: 0;
 	color: #999;
 }
-
 #body-content { 
 	margin: 54px auto;
 	width: 540px; 
 }
-
+.post-heading {
+	font-size: 18px;
+	line-height: 24px;
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	padding: 12px 0;
+	margin-bottom: 30px;
+	color: #999;
+}
+.posts {
+	list-style-type: none;
+	-webkit-padding-start: 0;
+}
+.posts :last-child {
+	border-bottom: 0 !important;
+}
+.posts .post-listing {
+	padding-bottom: 12px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #eee;
+}
+.posts .post-listing h1 {
+	margin-bottom: 12px;
+}
 .post { 
 	margin-bottom: 54px; 
 	padding-bottom: 36px; 
@@ -97,10 +113,11 @@ a:hover,
 	padding-left: 18px; 
 }
 .post blockquote small { margin-top: 0; letter-spacing: .15em; text-transform:uppercase; font-family: Georgia, Times New Roman, Serif; }
-	.post blockquote.alone p { line-height: 1.75em; font-weight: 300; }
-.post .post-date, .post .post-date a { color: #999; }
-.post .post-date a:hover { color: #2AA7FA; }
-
+.post blockquote.alone p { line-height: 1.75em; font-weight: 300; }
+.post .post-date {
+	display: block;
+	margin-top: 24px;
+}
 #pagination { padding-bottom: 5.625em; }
 #newer_link { float: right; }
 a#back-blog { padding: 0.6em 0.75em 0.75em; background: #000; color: #fff; border-radius: 6px; display: block; width: 118px; }
@@ -110,4 +127,24 @@ a#back-blog:hover { background: #df4747; }
 #subscribe-list li #follow-button { position: absolute; top: 2px; margin-left: 6px; }
 
 .post .subheadline { font-size: 22px; line-height: 32px; margin-top: -22px; font-style: italic; }
+
+.post .share-links {
+	margin: 0;
+	-webkit-padding-start: 0;
+}
+.post .share-links li {
+	list-style-type: none;
+	display: inline;
+	margin: 0 12px 0 0;
+	position: relative;
+}
+.post .share-links li.twitter-share {
+	top: 4px; 
+}
+.post .share-links li.facebook-num-comments {
+	right: 32px;
+}
+.post #facebook-comments {
+	margin-top: 36px;
+}
 

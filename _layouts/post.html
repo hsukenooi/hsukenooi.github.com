@@ -5,7 +5,10 @@ layout: default
 <div id="posts">
 	<div class="post">
 		{{ content }}
-		<span class="post-date">Posted <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
+		<span class="post-date demphasis">Posted {{ page.date | date: "%b %d, %Y" }}</span>
 	</div>
+
+  <div class="fb-comments" data-href="{{ page.url }}" data-width="540"></div>
+
 	<a id="back-blog" href="/" class="no-underline">&larr; Back to Blog</a>
 </div>

@@ -2,6 +2,7 @@
 layout: post
 title: "Last Name, First"
 category: short 
+excerpt: A short post on why easter cultures put the person's name first and the family name second.
 ---
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 

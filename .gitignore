@@ -9,3 +9,5 @@ Thumbs.db
 /_site
 /server
 .ruby-version
+*.sublime-project
+*.sublime-workspace

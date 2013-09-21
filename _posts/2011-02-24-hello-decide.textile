@@ -2,6 +2,7 @@
 layout: post
 title: "Hello Decide"
 category: blog 
+excerpt: This update is a little late but to borrow from my favorite show, "Good news, everyone!". Our little startup was recently funded and is now Decide. Read the full announcement on our blog. 
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>

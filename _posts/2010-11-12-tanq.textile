@@ -2,6 +2,7 @@
 layout: post
 title: "tanQ"
 category: blog 
+excerpt: A few months ago I was helping a friend brainstorm ideas for a project she wanted to start. She's a graphic designer with an itch to do good so we were thinking of a way to put those things together.
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>

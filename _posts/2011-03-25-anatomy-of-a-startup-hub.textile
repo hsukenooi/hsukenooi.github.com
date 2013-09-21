@@ -2,6 +2,7 @@
 layout: post
 title: "Anatomy of a Startup Hub"
 category: blog 
+excerpt: "Lots of people have written about the benefits or disadvantages about doing a startup in x place compared to y place. I frankly don't think it matters as much as people seem to think it does based on the number of articles written about it. I'm not about to add to that list."
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "A Letter to My Godson"
+excerpt: I'm writing this letter before your first and my thirtieth birthday for you to open on your eighteenth. It's an idea my father told me about when I was a teenager but never did.
+featured: yes
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
