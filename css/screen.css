@@ -74,6 +74,8 @@ a:hover,
 	border-bottom: 1px solid #eee;
 }
 .posts .post-listing h1 {
+	font-size: 30px;
+	line-height: 42px;
 	margin-bottom: 12px;
 }
 .post { 

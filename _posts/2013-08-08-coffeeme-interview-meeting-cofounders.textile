@@ -2,7 +2,6 @@
 layout: post
 title: "Meeting My Co-Founders"
 excerpt: The following is an interview with I did for a startup I'm adivising called <a href="http://coffeeme.in">CoffeeMe</a>, think <a href="http://gotinder.com">Tinder</a> but for professionals.
-featured: yes
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>

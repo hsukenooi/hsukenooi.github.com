@@ -2,7 +2,6 @@
 layout: post
 title: "Beginner Mistakes"
 excerpt: Prior to working on what would become <a href="https://decide.com">Decide.com</a>, we spent 18 months working on a dozen other ideas that didn't work. One of the ideas was for a social sharing job post didn't get a single user. Suffice to say, we failed a lot.
-featured: yes
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
