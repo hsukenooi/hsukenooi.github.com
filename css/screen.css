@@ -128,7 +128,12 @@ a#back-blog:hover { background: #df4747; }
 #subscribe-list li { position: relative; }
 #subscribe-list li #follow-button { position: absolute; top: 2px; margin-left: 6px; }
 
-.post .subheadline { font-size: 22px; line-height: 32px; margin-top: -22px; font-style: italic; }
+.post .subheadline { 
+	font-size: 22px; 
+	line-height: 32px; 
+	margin: -22px 0 18px; 
+	font-style: italic; 
+}
 
 .post .share-links {
 	margin: 0;
