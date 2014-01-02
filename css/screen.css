@@ -45,8 +45,7 @@ a:hover,
 	border: none;
 }
 #side-bar #description {
-	margin-top: 0;
-	color: #999;
+	padding-bottom: 6px;
 }
 #body-content { 
 	margin: 54px auto;
