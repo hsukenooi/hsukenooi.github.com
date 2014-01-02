@@ -17,7 +17,6 @@ Here's the list:
   <li>Minimize regret not disappointment.</li>
   <li>Telling someone you're 30 is significantly different from telling them you're 29. You know it. They know it.</li>
   <li>Give people a chance. Make plans with people you just met. Go on that first date. It won't always work but some will and a few will change your life.</li>
-  <li>There's something magical about having dinner. A disproportionate number of my fondest memories were at dinner.</li>
   <li>If you're not sure, that typically means no. Especially in love.</li>
   <li>Once in a while do something everyone says you shouldn't. This is the source of my best and worse moments. All great stories.</li>
   <li>Live a life full of great stories.</li>
@@ -25,6 +24,7 @@ Here's the list:
   <li>Don't mistake "how it's been done" for "how it should be done".</li>
   <li>Moving somewhere new is healthy. You'll learn about yourself and find new appreciation for people and things you take for granted.</li>
   <li>Happiness is a choice.</li>
+  <li>People’s perception of someone's life is often very different from the reality.</li>
   <li>There's something magical about having dinner with someone.</li>
   <li>Success feels more like relief than accomplishment.</li>
   <li>Success is fleeting.</li>
@@ -38,4 +38,3 @@ Here's the list:
   <li>Life is messy, unpredictable and absolutely wonderful.</li>
 </ol>
 
-{% include share.html %}
