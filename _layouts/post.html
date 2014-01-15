@@ -5,8 +5,14 @@ layout: default
 <div id="posts">
 	<div class="post">
 		{{ content }}
-		<span class="post-date demphasis">Posted {{ page.date | date: "%b %d, %Y" }}</span>
+		<p class="post-date demphasis">Posted on {{ page.date | date: "%b %d, %Y" }} from {{ page.location }}</p>
+
+    {% include share.html %}
+
 	</div>
 
-	<a id="back-blog" href="/" class="no-underline">&larr; Back to Blog</a>
+  {% include mailchimp.html %}
+
+  <!-- <div class="fb-comments" data-href="http://hsukenooi.com{{ page.url}}" data-width="570" data-numposts="5" data-colorscheme="light"></div> -->
+
 </div>

@@ -1,14 +1,15 @@
 ---
 layout: post
 title: "Postmortem of a Venture-Backed, Acquired Startup"
+location: "Los Gatos, CA"
 excerpt: Lessons learned from Decide.com. From my brother's basement to $16.5M in funding, 30 employees and acquisition by eBay.
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-<div class="subheadline">Lessons learned from Decide.com</div>
+<p class="subheadline">Lessons learned from Decide.com</p>
 
-Decide.com was acquired by eBay on September 6, 2013. For those unfamiliar with Decide, we invented technology that predicted the future price of consumer goods. Thinking about buying a Samsung television? We'd tell you whether the price would drop in the next two weeks. We helped you decide when to buy.
+<i>Decide.com was acquired by eBay on September 6, 2013. For those unfamiliar with Decide, we invented technology that predicted the future price of consumer goods. Thinking about buying a Samsung television? We'd tell you whether the price would drop in the next two weeks. We helped you decide when to buy.</i>
 
 I'm obviously happy with the outcome. From my brother's basement, we raised $16.5M, employed 30 people and most importantly built something people found useful. Only in my wildest dream would I have the audacity to think I'd build something that would be acquired by a company like eBay.
 
@@ -82,4 +83,3 @@ We had 2 choices: (1) Comply and remove Amazon prices from our mobile app (2) No
 
 <i>If you want to see what I'm working on now checkout <a href="http://coffeeme.in">CoffeeMe</a>, or as we like to call it Tinder for professional networking.</i>
 
-{% include share.html %}

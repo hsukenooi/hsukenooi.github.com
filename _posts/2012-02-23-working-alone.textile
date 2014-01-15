@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Working Alone"
+location: "Seattle, WA"
 excerpt: "Most inventors and engineers I've met are like me ... they live in their heads. They're almost like artists. In fact, the very best of them are artists. And artists work best alone .... I'm going to give you some advice that might be hard to take. That advice is: Work alone... Not on a committee. Not on a team."
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
 <p>Steve Wozniak in his memoirs:</p>
-<blockquote>
+<blockquote class="left">
 <p>Most inventors and engineers I've met are like me ... they live in their heads. They're almost like artists. In fact, the very best of them are artists. And artists work best alone .... I'm going to give you some advice that might be hard to take. That advice is: Work alone... Not on a committee. Not on a team.</p>
 </blockquote>
 <p>When we were bootstrapping, we only met once a week (on Monday) and did most of the work at home or in a coffee shop by ourselves. Now that we have an office and there are almost 30 people, coming into the office is the norm.</p>

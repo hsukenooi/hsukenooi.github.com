@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Email to the Company About Charging Users"
+location: "Seattle, WA"
 excerpt: I wrote the following email to the entire company after struggling with the decision to charge users instead of ads or something else. 
 ---
 

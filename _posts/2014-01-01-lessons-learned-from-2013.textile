@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lessons Learned in 2013"
+location: "Los Gatos, CA"
 excerpt: I'm gonna remember 2013. It's the year I turned 30, my startup was acquired and I moved to San Francisco. As I reflected on the past year and the previous 29 before it, I made a list of things I've learned along the way. 
 ---
 
