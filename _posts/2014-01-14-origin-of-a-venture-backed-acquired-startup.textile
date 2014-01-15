@@ -39,7 +39,7 @@ Here's what it looked:
 
 h2. Cutting Corners 
 
-To adhere to our "it must ship in one week" rule, we got good at cutting corners. For this project, we decided to not invest in the scraper despite it's importance. Accurately tracking the price of a product was what the site was about. It'd be terrible to send an email, notifying someone that the price of something they wanted had dropped, only to have them find out it hadn't. Over-promising and under-delivering is typically a bad user experience.
+To adhere to our "it must ship in one week" rule, we got good at cutting corners. For this project, we decided to not invest in the scraper despite its importance. Accurately tracking the price of a product was what the site was about. It'd be terrible to send an email, notifying someone that the price of something they wanted had dropped, only to have them find out it hadn't. Over-promising and under-delivering is typically a bad user experience.
 
 Unfortunately, building an accurate scraper that would work on any site would've taken weeks if not months. It would also require constant maintenance since websites are constant changing. It would've been a huge investment. We needed to know if this was something people wanted first.
 
