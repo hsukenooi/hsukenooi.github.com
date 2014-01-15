@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Origin of a Venture-Backed, Acquired Startup"
+title: "Origin Story of a Venture-Backed, Acquired Startup"
 excerpt: "Seattle, Late 2009 &mdash; For the past 18 months, my 3 co-founders and I had worked out of my brother's cold cold basement, without pay or insurance. We'd built a handful of products that hadn't gone anywhere. Our future wasn't bright."
 location: "San Francisco, CA"
 ---
