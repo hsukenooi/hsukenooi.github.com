@@ -1,9 +1,12 @@
 body, li { 
 	color: #4D4D4D; 
-	font-family: "myriad-pro", Helvetica Neue, Sans Serif; 
+	font-family: Georgia, Serif; 
 	font-size: 18px; 
 	line-height: 30px; 
 	margin: 0; 
+}
+h1, h2, h3, h4, header, .subheadline, blockquote {
+	font-family: "myriad-pro", Helvetica Neue, Sans Serif; 
 }
 a { 
 	text-decoration: none; 
@@ -18,7 +21,7 @@ a:hover, .post h1 a:hover {
 .link-arrow { color: #ccc; }
 .demphasis { color: #999; }
 #body-content { 
-	margin: 84px auto;
+	margin: 60px auto;
 	width: 570px; 
 }
 .post-heading {
@@ -38,8 +41,8 @@ a:hover, .post h1 a:hover {
 	border-bottom: 0 !important;
 }
 .posts .post-listing {
-	padding: 60px 0 24px;
-	margin-bottom: 18px;
+	padding: 36px 0 6px;
+	margin-bottom: 12px;
 	border-top: 1px solid #eee;
 	border-bottom: 0;
 }
@@ -127,7 +130,7 @@ a:hover, .post h1 a:hover {
 }
 
 header {
-	padding-bottom: 72px;
+	padding-bottom: 60px;
 	position: relative;
 }
 header #picture-me {
