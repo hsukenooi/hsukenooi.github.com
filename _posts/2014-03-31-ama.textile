@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Ask Me Anything"
+location: "San Francisco, CA"
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+I recently did a AMA on <a href="http://yabbly.com" target="_blank">Yabbly</a>. It was a great way to come up with blog post ideas and see what people are interested in hearing about. For example, I really got to write that post comparing the Seattle and SF startup communities. 
+
+Here's the AMA:
+
+<script src="https://yabbly.com/widget/embed.js?aid=zren0b9h" type="text/javascript"></script>
