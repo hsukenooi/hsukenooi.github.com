@@ -1,14 +1,14 @@
-  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-  <html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
   <head>
   	<title>Hsu Ken Ooi &mdash; {{ page.title }}</title>
   	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
   	<meta http-equiv="Content-Language" content="en-us" />
   	<meta name="google-site-verification" content="dh3khRyemaWElDLZM57YfWgzlAJ13f08yZeI_h0wWrQ" />
   	<link href="/css/screen.css" media="screen" rel="Stylesheet" type="text/css" />
-  	<script type="text/javascript" src="http://use.typekit.com/mph5eto.js"></script>
-  	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  	<script type="text/javascript">
+    <script src="https://use.typekit.net/qtp3wky.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <script type="text/javascript">
 
   		var _gaq = _gaq || [];
   		_gaq.push(['_setAccount', 'UA-2060433-1']);
@@ -23,25 +23,21 @@
   	</script>
   </head>
   <body>
-  	<div id="fb-root"></div>
-  	<script>(function(d, s, id) {
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) return;
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=234644000040286";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));</script>	
-
-   <div id="body-content">
     <header>
-      <a id="picture-me" href="/"><img src="https://s3.amazonaws.com/hsukenooi/me.png"></a>
-      <p><b><a href="http://twitter.com/hsukenooi">Hsu Ken Ooi</a></b> <span class="demphasis">Founder of <a href="http://coffeeme.in">CoffeeMe</a>, Tinder for Professional Networking. Previously Co-Founder of <a href="http://decide.com">Decide.com</a> (acquired by eBay).</span></p>
-		  <a href="https://twitter.com/hsukenooi" class="twitter-follow-button" data-show-count="true" data-size="small">Follow @hsukenooi</a>
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      <div id="header" class="content">
+        <a id="picture-me" href="/"><img src="http://placehold.it/45x45.png"></a>
+        <h2>Hsu Ken Ooi</h2>
+        <p>Aspiring starship captain.</p>
+      </div>
     </header>
-
-    {{ content }}
-  </div>
-
-</body>
+    <div id="navigation">
+      <ul class="content">
+        <li>Writing</li>
+        <li>About</li>
+      </ul>
+    </div>
+    <div class="content">
+      {{ content }}
+    </div>
+  </body>
 </html>

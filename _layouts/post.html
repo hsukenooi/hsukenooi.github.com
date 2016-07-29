@@ -6,13 +6,6 @@ layout: default
 	<div class="post">
 		{{ content }}
 		<p class="post-date demphasis">Posted on {{ page.date | date: "%b %d, %Y" }} from {{ page.location }}</p>
-
-    {% include share.html %}
-
+		{% include share.html %}
 	</div>
-
-  {% include mailchimp.html %}
-
-  <!-- <div class="fb-comments" data-href="http://hsukenooi.com{{ page.url}}" data-width="570" data-numposts="5" data-colorscheme="light"></div> -->
-
 </div>
