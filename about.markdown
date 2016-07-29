@@ -5,13 +5,10 @@ title: "About"
 
 # Hi Friend. 
 
-I live in Seattle, Washington. I attended the University of Washington majoring in Mathematics and Statistics.
+My name is Hsu Ken Ooi. I’m currently taking a sabbatical which, as far as I can tell, is an exercise in figuring out what a sabbatical is.
 
-I'm co-founder of "Decide.com":http://decide.com.
+Formally, I was VP of Product at [Weave](http://weave.in) and Co-Founder at [Decide.com](http://decide.com) which was acquired by eBay.
 
-Email me at "me@hsukenooi.com":mailto:me@hsukenooi.com.
+You should follow me on [Twitter](http://twitter.com/hsukenooi).
 
-You should follow me on Twitter:
-
-<a href="https://twitter.com/hsukenooi" class="twitter-follow-button" data-size="large" data-show-count="true">Follow @hsukenooi</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+[Contact me](mailto:hsukenooi@gmail.com)
