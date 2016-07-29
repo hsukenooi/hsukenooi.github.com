@@ -5,7 +5,7 @@ excerpt: "Seattle, Late 2009 &mdash; For the past 18 months, my 3 co-founders an
 location: "San Francisco, CA"
 ---
 
-h1. <a href="{{ page.url }}">{{ page.title }}</a>
+# <a href="{{ page.url }}">{{ page.title }}</a>
 
 <p class="subheadline">The story of how we arrived at the idea for Decide.com</p>
 
@@ -13,15 +13,17 @@ h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
 Seattle, Late 2009 &mdash; For the past 18 months, my 3 co-founders and I had worked out of my brother's cold cold basement, without pay or insurance. We'd built a handful of products that hadn't gone anywhere. Our future wasn't bright.
 
-h2. An Observation 
+## An Observation 
 
 Brian noticed his girlfriend (now wife) Jessica, had looked at the same dress on Nordstrom's website several days in a row.
 
-Brian: "Why do you go to that page every day?"
-Jessica: "I'm waiting for the price to go down"
+<span>
+Brian: "Why do you go to that page every day?"<br>
+Jessica: "I'm waiting for the price to go down"<br>
 Brian: "Oh, we can build you something that checks it for you"
+</span>
 
-h2. A Prototype 
+## A Prototype 
 
 Brian told Ian about the conversation and by the following Monday they'd built a prototype. They showed it to Hsu Han and I  during our weekly meeting on my brother's couch. Without thinking about the normal startup criteria like market size, defensibility, differentiation (it would've failed all of them), we hopped in. It sounded like fun.
 
@@ -37,7 +39,7 @@ Here's what it looked:
 
 <a href="https://s3.amazonaws.com/hsukenooi/homepage_step1.png" target="_blank"><img src="https://s3.amazonaws.com/hsukenooi/homepage_step1.png" width="570"></a>
 
-h2. Cutting Corners 
+## Cutting Corners 
 
 To adhere to our "it must ship in one week" rule, we got good at cutting corners. For this project, we decided to not invest in the scraper despite its importance. Accurately tracking the price of a product was what the site was about. It'd be terrible to send an email, notifying someone that the price of something they wanted had dropped, only to have them find out it hadn't. Over-promising and under-delivering is typically a bad user experience.
 
@@ -47,13 +49,13 @@ Unfortunately, building an accurate scraper that would work on any site would've
 
 Instead we made a decent scraper and had users verify the current price. When the scraper detected a price change, rather than emailing the user automatically, it published the change to an internal dashboard. We (mostly Ian, thanks Ian) would check the dashboard several times a day, verify the price changes and send  the emails by hand. It's not a scalable solution but it got us moving immediately.
 
-h2. When a Bug Isn't a Bug 
+## When a Bug Isn't a Bug 
 
 For most sites our semi-automatic system worked. Someone would track a product from Costco's website. We'd diligently check the dashboard for price changes, verify and send out the email.
 
 It didn't work that well for Amazon though. The system would detect a price drop from $500 to $450 but when we manually verified the price it would be $475. We thought there was bug but couldn't find it. To help us troubleshoot we had the scraper save the page when it detected a price change. That way we could see the same page the scraper saw. If the scraper said $450 but the price on the page was $475 we'd know there was something wrong on our end.
 
-h2. That's Interesting.. 
+## That's Interesting.. 
 
 The scraper wasn't wrong. When we manually looked at the page, the price was in fact $450. What's going on?
 
@@ -63,7 +65,7 @@ We had no idea prices moved so often. We started collecting prices more frequent
 
 It was becoming apparent that when you bought something, not just what and where, was important. You could get the same product for significantly less, if you bought at the right time. If only there was a way to predict whether prices were going to go up or down.
 
-h2. It's Good to Be Lucky 
+## It's Good to Be Lucky 
 
 We'd met Oren Etzioni 2 years earlier while Ian was a student in one of his Computer Science classes at the University of Washington. He'd politely told us the idea we were working on at the time, data mining resumes, wouldn't work. It'd only be useful if you have hundreds of thousands of resumes. How are you going to convince people to give your resume until then? Classic chicken or the egg problem.
 
@@ -75,15 +77,13 @@ I can't overstate how fortuitous this was. The only person who'd started and sol
 
 He thought our findings were interesting. As he liked to say "I've seen this movie before." But first he wanted more data. Specifically answers to the following questions:
 
-<ol>
-  <li>Does  price volatility happen in many categories?</li>
-  <li>Are the price changes meaningful?</li>
-  <li>Are they reasonably predictable?</li>
-</ol>
+1. Does  price volatility happen in many categories?
+2. Are the price changes meaningful?
+3. Are they reasonably predictable?
 
 We spent the next few weeks gathering data to answer those questions. I've never been to graduate school but I imagine it felt a little bit like that. Checking in with a professor every few weeks, presenting your findings. Fortunately the answer to all 3 questions was yes. As we progressed, Oren joined as the 5th co-founder and the rest, as they say, is history.
 
-h2. Big Ideas Start Small 
+## Big Ideas Start Small 
 
 If you're gonna take anything away from this story maybe it's that big ideas start small. The idea that led to Decide was price alerts. A feature most shopping sites have. Not a change the world, kind've big idea.
 

@@ -4,8 +4,7 @@ layout: default
 
 <div id="posts">
 	<div class="post">
-		{{ content }}
+    {{ page.content | markdownify }}
 		<p class="post-date demphasis">Posted on {{ page.date | date: "%b %d, %Y" }} from {{ page.location }}</p>
-		{% include share.html %}
 	</div>
 </div>
