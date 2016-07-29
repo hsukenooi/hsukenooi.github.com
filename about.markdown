@@ -3,7 +3,7 @@ layout: static
 title: "About"
 ---
 
-h1. {{ page.title }}
+# Hi Friend. 
 
 I live in Seattle, Washington. I attended the University of Washington majoring in Mathematics and Statistics.
 
