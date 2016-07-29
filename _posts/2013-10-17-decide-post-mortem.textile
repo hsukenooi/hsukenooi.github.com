@@ -5,7 +5,7 @@ location: "Los Gatos, CA"
 excerpt: Lessons learned from Decide.com. From my brother's basement to $16.5M in funding, 30 employees and acquisition by eBay.
 ---
 
-h1. <a href="{{ page.url }}">{{ page.title }}</a>
+# <a href="{{ page.url }}">{{ page.title }}</a>
 
 <p class="subheadline">Lessons learned from Decide.com</p>
 
@@ -15,7 +15,7 @@ I'm obviously happy with the outcome. From my brother's basement, we raised $16.
 
 Although the outcome was positive, it's helpful to reflect on the experience. Below are 3 lessons I learned from the experience. They're not new but hopefully from within the context of a real startup they're more tangible.
 
-h2. Scale Your Company with Your Product
+## Scale Your Company with Your Product
 
 We launched Decide.com on June 20th, 2011 with 20 people and 2 round of funding totaling $8.5M. That's atypical, especially these days when investors want to see traction before investing. Instead of those resources helping us find market-fit it slowed us down.
 
@@ -31,25 +31,25 @@ Once we got through those parts, it was harder to change directions:
 
 <b>Specialization</b>. As companies grow, the people they hire become more specialized. If we had pivoted to target businesses (we talked about it) instead of consumers we'd need sales people (we didn't have any) which probably meant we'd have to layoff other people (probably engineers) to hire them. This didn't happen to us but it impacted some of our decisions so I felt it was worth mentioning.
 
-h3. Lesson Learned:
+### Lesson Learned:
 
 Do whatever helps you reach market-fit faster. In my experience, that's raising modestly (if at all) and keeping the team small. 2 or 3 people can get a lot done and is small enough where you don't have to worry about structure or communication.
 
 You wouldn't scale your technology to support 10M users when you only have 100. Don't scale your company that way either.
 
-h2. Hire Similar Minded People
+## Hire Similar Minded People
 
 Our hiring criteria can be summarized with 2 basic questions: (1) Are they great at what they do? (2) Do we like them? Turns out there should've been a 3rd question. (3) Do you generally agree with me?
 
 We spent a lot of time debating rather than doing. What technology should we use? When should engineering get involved with the design process? What's our design methodology? How long should our release cycles be? Should we even have release cycles? I could go on indefinitely.
 
-h3. Lesson Learned:
+### Lesson Learned:
 
 Decide how you want do things then hire people that want to do things that way. There's value in having a diversity of opinion but in a early stage startups, the benefits (moving fast) of hiring people that generally agree with you outweigh the benefits (diversity of opinion) of hiring people that don't.
 
 If you can't hire anyone that agrees with you, re-evaluate how you want to do things.
 
-h2. Expanding Your Target Market Doesn't Help You Find Market-Fit
+## Expanding Your Target Market Doesn't Help You Find Market-Fit
 
 We started with support for 3 categories (televisions, laptops and cameras) but expanded into all electronics within the first year. Looking for more growth, we talked about a few options:
 
@@ -63,7 +63,7 @@ We ended up doing a combination of 1 and 2. We built features (product recommend
 
 Most of our traffic stayed in electronics and our experience became thin. We were in a lot of categories trying to do a lot of things. I would've liked to see us do option 3, double-down on when to buy. That was the part of the market nobody else was playing in. Get that experience to be amazing then roll it out into other categories.
 
-h3. Lesson Learned:
+### Lesson Learned:
 
 Expanding your target market, like we did by supporting more categories and building when to buy features, doesn't help you get to market-fit. In fact, I'd argue it makes it harder because there's more needs to satisfy.
 
@@ -71,7 +71,7 @@ Said another way, is it better to start with a small group of people who love wh
 
 Keep your product narrow and focused on the small group of people most likely to love what you're building.
 
-h2. Something positive
+## Something positive
 
 I don't want to end this negatively because there's a lot we got right. I just tend to learn more from failures than successes. Maybe I should write another post about worked for us. For now, let me tell you about the my proudest moment at Decide, when we lost almost all our revenue.
 

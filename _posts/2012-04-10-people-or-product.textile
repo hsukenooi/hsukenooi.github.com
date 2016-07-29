@@ -6,7 +6,7 @@ excerpt: Why I hated myself for using a great product made by mean people over a
 category: short
 ---
 
-h1. <a href={{ page.url }}>{{ page.title }}</a>
+# [{{ page.title }}]({{ page.url }})
 
 I was happily using a Product A for months. I started to follow the people that built it, they seemed like nice people, I liked them. 
 

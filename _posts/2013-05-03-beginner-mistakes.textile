@@ -5,7 +5,7 @@ location: "Seattle, WA"
 excerpt: Prior to working on what would become <a href="https://decide.com">Decide.com</a>, we spent 18 months working on a dozen other ideas that didn't work. One of the ideas was for a social sharing job post didn't get a single user. Suffice to say, we failed a lot.
 ---
 
-h1. <a href="{{ page.url }}">{{ page.title }}</a>
+# [{{ page.title }}]({{ page.url }})
 
 <p class="subheadline">A few things I would've done differently at my first startup.</p>
 
@@ -15,7 +15,7 @@ Our first project was Eggsprout, a tool that aggregated and mined resumes to cre
 
 After 18 months and 3 pivots, we shut it down. The product wasn't any good and we weren't getting any traction. A few months and several ideas later, we started working on Priceyeti the precursor to <a href="https://decide.com">Decide.com</a>. Since then we've raised 3 rounds, grown to 30 people and built a product people pay for. Although I've talked to my co-founders about our early mistakes, I haven't sat down to reflect and write about them. Hopefully you'll find them useful. Here goes.
 
-h3. Launch early
+### Launch early
 
 We'd heard it a million times and still got it wrong. We worked on Eggsprout for nine months before launching. Locked in my brother's basement, we wrote code seven days a week and barely talked to anyone. We built and redesigned the career map visualization several times. My brother spent almost the entire time writing an algorithm to extract data from resumes.
 
@@ -23,7 +23,7 @@ A month after launch, our daily metrics were a couple dozen visits and a handful
 
 We should've launched earlier, probably in the first month. We didn't for all the classic reasons (wanting it to be perfect, thinking we needed more features, etc.) you already know. The sooner you launch the sooner you realize what your first order problems are. For us that was acquiring resumes. Solve first order problems first.
 
-h3. Traction is slow and not obvious
+### Traction is slow and not obvious
 
 As I mentioned earlier, we pivoted 3 times in 18 months. From career map to create your own job board to create a home for your professional group. It's hard to know whether these were the right pivots at the right times but it did teach me two things about traction.
 
@@ -31,7 +31,7 @@ Traction takes time. It doesn't happen overnight, it'll take several times longe
 
 Traction isn't obvious. In the first few months you'll be doing a few hundred visits, maybe a few thousand. Is that good or bad? Traction isn't a giant welcome sign, it's a trail of tiny breadcrumbs. You'll find them talking to users, looking at metrics, etc. They're hard to find, easy to misidentify and you can't be sure where they'll lead but you gotta keep looking.
 
-h3. Equal partners, unequal say
+### Equal partners, unequal say
 
 We started the company as four equal partners (two sets of brothers). Brian was technically the CEO but we operated democratically, everyone's opinion was valued equally. Great in theory, harmful in practice.
 
@@ -41,7 +41,7 @@ Too much compromise. Instead of allowing a single person's vision for the produc
 
 We should've admitted this role was necessary and trusted someone to do it from the beginning. The longer we went without it, the harder it was for someone to step-up and the more confusing our product became.
 
-h3. Get to know your other founders
+### Get to know your other founders
 
 My brother and Brian worked at Zillow together for 18 months before Brian quit to start a startup. He wrote a long (useless) business plan and tried to recruit my brother. My brother suggested he talk to me too since I was interested in startups. Brian pitched us the idea of doing zestimates (Zillow's algorithm for valuing houses) but for job applicants. We thought the idea was interesting. He told us his brother would be involved. Eggsprout was born.
 

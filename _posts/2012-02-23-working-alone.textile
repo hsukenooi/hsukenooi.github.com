@@ -5,7 +5,7 @@ location: "Seattle, WA"
 excerpt: "Most inventors and engineers I've met are like me ... they live in their heads. They're almost like artists. In fact, the very best of them are artists. And artists work best alone .... I'm going to give you some advice that might be hard to take. That advice is: Work alone... Not on a committee. Not on a team."
 ---
 
-h1. <a href="{{ page.url }}">{{ page.title }}</a>
+# [{{ page.title }}]({{ page.url }})
 
 <p>Steve Wozniak in his memoirs:</p>
 <blockquote class="left">

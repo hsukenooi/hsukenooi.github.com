@@ -5,7 +5,7 @@ location: "Seattle, WA"
 category: short 
 excerpt: Why eastern cultures put the person's name first and the family name second.
 ---
-h1. <a href="{{ page.url }}">{{ page.title }}</a>
+# [{{ page.title }}]({{ page.url }})
 
 In western culture my name is Hsu Ken Ooi. The individual name followed by the family. In eastern culture my name is Ooi, Hsu Ken. The family name followed by the individual. To take it further, the "Hsu" part of my name that I share with my brother Hsu Han signifies our generation. A concept that doesn't exist in western culture. Examining my name in eastern culture again, the order is family, generation then individual. 
 

@@ -5,11 +5,9 @@ excerpt: "My dad sent me a list of 10 life lessons for the New Year."
 location: "San Francisco, CA"
 ---
 
-h1. <a href="{{ page.url }}">{{ page.title }}</a>
+# [{{ page.title }}]({{ page.url }})
 
-<p class="subheadline">The following is a letter my Dad sent me during Christmas.</p>
-
-A Dad's Gift to his Son: Life's Lessons
+The following is a letter my Dad sent me during Christmas.
 
 No order of priority:
 

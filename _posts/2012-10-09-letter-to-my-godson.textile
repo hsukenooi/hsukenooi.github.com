@@ -6,7 +6,7 @@ excerpt: I'm writing this letter before your first and my thirtieth birthday for
 featured: yes
 ---
 
-h1. <a href="{{ page.url }}">{{ page.title }}</a>
+# [{{ page.title }}]({{ page.url }})
 
 I'm writing this letter before your first and my thirtieth birthday for you to open on your eighteenth. It's an idea my father told me about when I was a teenager but never did.
 
