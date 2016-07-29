@@ -25,15 +25,22 @@
   <body>
     <header>
       <div id="header" class="content">
-        <a id="picture-me" href="/"><img src="http://placehold.it/45x45.png"></a>
+        <a id="picture-me" href="/"><img src="https://s3.amazonaws.com/hsukenooi/me.png" width="45"></a>
         <h2>Hsu Ken Ooi</h2>
         <p>Aspiring starship captain.</p>
       </div>
     </header>
-    <div id="navigation">
-      <ul class="content">
-        <li><a href="/">Writing</a></li>
-        <li><a href="/about">About</a></li>
+    <div id="navigation" class="content">
+      <ul>
+        {% for link in site.navigation %}
+        {% assign current = nil %}
+        {% if page.url contains link.url %}
+          {% assign current = 'current' %}
+        {% endif %}
+        <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+          <a href="{{ link.url }}">{{ link.title }}</a>
+        </li>
+        {% endfor %}
       </ul>
     </div>
     <div class="content">

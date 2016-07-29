@@ -1,2 +1,9 @@
 ---
 permalink: pretty
+
+navigation:
+  - title: Writing 
+    url: /
+  - title: About 
+    url: /about/
+---
