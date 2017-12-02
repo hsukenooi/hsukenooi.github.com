@@ -5,6 +5,7 @@ OS generated files #
 ehthumbs.db
 Icon?
 Thumbs.db
+Gemfile.lock
 *.swp
 /_site
 /server
