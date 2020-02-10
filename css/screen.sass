@@ -2,26 +2,29 @@
 ---
 
 body, li  
-  color: #222 
+  color: #222
   background-color: #FCFCFC
-  font-family: "Avenir", "sans-serif" 
-  font-size: 14px 
-  line-height: 25px 
-  font-weight: 300
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
+  font-size: 18px 
+  line-height: 30px 
   margin: 0 
 
 h1 
   font-size: 32px
   line-height: 45px
-  margin: 0 0 30px
 
-h2 
+h2
   font-size: 18px
-  line-height: 30px
-  font-weight: 600
+  line-height: 30px 
+  margin: 30px 0 20px
 
 a  
   color: #222
+  text-decoration: none
+  border-bottom: 1px solid #2F80ED
+
+p
+  margin: 0 0 30px
 
 /* CLASSES */
 
@@ -38,14 +41,15 @@ a
 /* HEADER */
 
 #header 
-  padding: 40px 0
+  padding: 30px 0
+  margin-bottom: 60px
 
 #header #picture-me 
   float: left
   margin-right: 10px
+  border: none
   img 
     border-radius: 25px
-
 
 #header #picture-me:hover 
   border: none
@@ -57,13 +61,10 @@ a
   line-height: 20px
   margin: 0
 
-/* NAVIGATION */
-nav 
-  border-top: 1px solid #efefef
-  border-bottom: 1px solid #efefef
-  overflow: hidden
+header 
 
   ul 
+    display: inline
     padding: 0
     margin: 0
 
@@ -72,15 +73,11 @@ nav
     display: inline
     float: left
     margin: 0
-    padding: 12px 20px 13px 0
+    padding: 0 15px 0 0  
 
     a
-      font-weight: 800
-      color: #999999
-      text-decoration: none
+      border-bottom: 1px solid #2F80ED
 
-    &.current a
-      color: #222
 
 /* POSTS */
 
@@ -107,60 +104,30 @@ nav
     float: right
 
 .post  
-  margin-bottom: 50px 
-  padding: 40px 0 70px 
+  margin-bottom: 120px 
 
   h1
     a
-      text-decoration: none
-
-  h2
-    font-size: 24px
-    line-height: 35px
-
-  h3
-    font-size: 20px
-    line-height: 30px
-
-  p, li  
-    font-size: 16px
-    line-height: 25px
-    margin: 0 0 20px 
+      border-bottom: none
 
   ol, ul 
-    margin: 0 0 20px
+    margin: 0 0 30px
 
   li 
-    margin-bottom: 5px 
+    margin-bottom: 15px 
 
   img.center
     width: 780px
     position: relative
     right: 81px
 
-  blockquote.center 
-    width: 780px
-    font-style: italic
-    text-align: center
-    margin: 36px -106px 42px
-    font-size: 30px
-    line-height: 42px
-
-  blockquote.left  
-    border-left: 6px solid #57ad68 
-    margin-left: -24px
+  blockquote
+    border-left: 6px solid #999 
+    margin-left: 0 
     padding-left: 18px 
     width: 570px
     font-style: italic
     margin-bottom: 30px
-
-  blockquote .small  
-    margin-top: -10px
-    font-size: 12px
-    line-height: 20px
-    letter-spacing: .15em 
-    text-transform:uppercase 
-    font-style: normal
 
   .post-date 
     margin-bottom: 6px

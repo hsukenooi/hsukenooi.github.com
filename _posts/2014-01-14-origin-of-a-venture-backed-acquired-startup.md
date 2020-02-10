@@ -1,15 +1,15 @@
 ---
-layout: post
 title: "Origin Story of a Venture-Backed, Acquired Startup"
+
+layout: post
+categories: "public"
 excerpt: "For the past 18 months, my 3 co-founders and I had worked out of my brother's cold cold basement, without pay or insurance. We'd built a handful of products that hadn't gone anywhere. Our future wasn't bright."
 location: "San Francisco, CA"
 ---
 
-# <a href="{{ page.url }}">{{ page.title }}</a>
+# [{{ page.title }}]({{ page.url }})
 
-<p class="subheadline">The story of how we arrived at the idea for Decide.com</p>
-
-<i>Decide.com was acquired by eBay on September 6, 2013. For those unfamiliar with Decide, we invented technology that predicted the future price of consumer goods. Thinking about buying a Samsung television? We'd tell you whether the price would drop in the next two weeks. We helped you decide when to buy.</i>
+Decide.com was acquired by eBay on September 6, 2013. For those unfamiliar with Decide, we invented technology that predicted the future price of consumer goods. Thinking about buying a Samsung television? We'd tell you whether the price would drop in the next two weeks. We helped you decide when to buy.
 
 Seattle, Late 2009 &mdash; For the past 18 months, my 3 co-founders and I had worked out of my brother's cold cold basement, without pay or insurance. We'd built a handful of products that hadn't gone anywhere. Our future wasn't bright.
 
@@ -17,11 +17,9 @@ Seattle, Late 2009 &mdash; For the past 18 months, my 3 co-founders and I had wo
 
 Brian noticed his girlfriend (now wife) Jessica, had looked at the same dress on Nordstrom's website several days in a row.
 
-<span>
 Brian: "Why do you go to that page every day?"<br>
 Jessica: "I'm waiting for the price to go down"<br>
 Brian: "Oh, we can build you something that checks it for you"
-</span>
 
 ## A Prototype 
 
@@ -37,7 +35,9 @@ We renamed it PriceYeti (is it the right price yet?), made some small improvemen
 
 Here's what it looked:
 
-<a href="https://s3.amazonaws.com/hsukenooi/homepage_step1.png" target="_blank"><img src="https://s3.amazonaws.com/hsukenooi/homepage_step1.png" width="570"></a>
+<a href="https://s3.amazonaws.com/hsukenooi/homepage_step1.png" target="_blank">
+  <img src="https://s3.amazonaws.com/hsukenooi/homepage_step1.png" width="570">
+</a>
 
 ## Cutting Corners 
 
@@ -45,7 +45,7 @@ To adhere to our "it must ship in one week" rule, we got good at cutting corners
 
 Unfortunately, building an accurate scraper that would work on any site would've taken weeks if not months. It would also require constant maintenance since websites are constant changing. It would've been a huge investment. We needed to know if this was something people wanted first.
 
-<blockquote class="center">The fastest way to write software is to be the software.</blockquote>
+The fastest way to write software is to be the software.
 
 Instead we made a decent scraper and had users verify the current price. When the scraper detected a price change, rather than emailing the user automatically, it published the change to an internal dashboard. We (mostly Ian, thanks Ian) would check the dashboard several times a day, verify the price changes and send  the emails by hand. It's not a scalable solution but it got us moving immediately.
 
@@ -89,9 +89,7 @@ If you're gonna take anything away from this story maybe it's that big ideas sta
 
 And that's okay.  I see people try to brainstorm their way into the next big idea. Like you can sit down one day, decide you're going to come up with the next big idea and will it into your consciousness. That's not how ideas work.
 
-<blockquote class="left">
-<p>You see, I think he better than anyone understood that while ideas ultimately can be so powerful, they begin as fragile, barely formed thoughts, so easily missed, so easily compromised, so easily just squished.</p>
-<p class="small"> &mdash; Jony Ive on Steve Jobs</p>
-</blockquote>
+> You see, I think he better than anyone understood that while ideas ultimately can be so powerful, they begin as fragile, barely formed thoughts, so easily missed, so easily compromised, so easily just squished.
+> – Jony Ive on Steve Jobs
 
 We wouldn't have stumbled into price predictions for consumer products unless we'd built a website about tracking prices. Sometimes jumping down the rabbit hole is the only way to see how deep it goes. Most of the time won't go very far but every once in a while you'll find an entire world.

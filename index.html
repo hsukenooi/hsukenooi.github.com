@@ -3,15 +3,13 @@ layout: default
 title: "Blog"
 ---
 
-<ul id="recent-posts" class="posts">
-  {% for post in site.posts %}
-    <li class="post-listing post">
-      <p class="date demphasis">{{ post.date |  date: "%-m/%-d/%y" }}</p>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
-    </li>
+<div id="posts">
+  {% for post in site.categories["public"] %}
+    <div class="post">
+      {{ post.content | markdownify }}
+    </div>
   {% endfor %}
-</ul>
+</div>
 
 <!--
 <div id="pagination">

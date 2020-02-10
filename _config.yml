@@ -4,9 +4,10 @@ markdown: kramdown
 permalink: pretty
 
 navigation:
-  - title: Writing 
-    url: /
   - title: About 
     url: /about/
+  - title: Archive 
+    url: /archive/
+
 
 ---

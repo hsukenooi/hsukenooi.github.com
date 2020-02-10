@@ -27,22 +27,19 @@
       <div id="header" class="content">
         <a id="picture-me" href="/"><img src="https://pbs.twimg.com/profile_images/484471682145349633/6YX24Hyo_400x400.jpeg" width="45"></a>
         <h2>Hsu Ken Ooi</h2>
-        <p>Aspiring starship captain. Previously <a href="https://twitter.com/startweaving">@startweaving</a>, <a href="https://twitter.com/decide">@decide</a>.</p>
+        <ul>
+          {% for link in site.navigation %}
+            {% assign current = nil %}
+            {% if page.url contains link.url %}
+              {% assign current = 'current' %}
+            {% endif %}
+            <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+              <a href="{{ link.url }}">{{ link.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
       </div>
     </header>
-    <nav class="content">
-      <ul>
-        {% for link in site.navigation %}
-          {% assign current = nil %}
-          {% if page.url contains link.url %}
-            {% assign current = 'current' %}
-          {% endif %}
-          <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
-            <a href="{{ link.url }}">{{ link.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    </nav>
     <div class="content">
       {{ content }}
     </div>
