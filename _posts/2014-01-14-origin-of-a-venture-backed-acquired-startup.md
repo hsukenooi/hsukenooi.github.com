@@ -89,7 +89,7 @@ If you're gonna take anything away from this story maybe it's that big ideas sta
 
 And that's okay.  I see people try to brainstorm their way into the next big idea. Like you can sit down one day, decide you're going to come up with the next big idea and will it into your consciousness. That's not how ideas work.
 
-> You see, I think he better than anyone understood that while ideas ultimately can be so powerful, they begin as fragile, barely formed thoughts, so easily missed, so easily compromised, so easily just squished.
-> – Jony Ive on Steve Jobs
+> You see, I think he better than anyone understood that while ideas ultimately can be so powerful, they begin as fragile, barely formed thoughts, so easily missed, so easily compromised, so easily just squished. <br><br>– Jony Ive on Steve Jobs
 
 We wouldn't have stumbled into price predictions for consumer products unless we'd built a website about tracking prices. Sometimes jumping down the rabbit hole is the only way to see how deep it goes. Most of the time won't go very far but every once in a while you'll find an entire world.
+
