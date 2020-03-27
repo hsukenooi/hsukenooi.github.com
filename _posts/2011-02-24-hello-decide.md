@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hello Decide"
+location: "Seattle, WA"
 category: "public" 
 excerpt: This update is a little late but to borrow from my favorite show, "Good news, everyone!". Our little startup was recently funded and is now Decide. Read the full announcement on our blog. 
 ---

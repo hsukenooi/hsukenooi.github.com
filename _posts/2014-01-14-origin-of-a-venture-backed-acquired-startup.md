@@ -35,7 +35,7 @@ We renamed it PriceYeti (is it the right price yet?), made some small improvemen
 
 Here's what it looked:
 
-<a href="https://s3.amazonaws.com/hsukenooi/homepage_step1.png" target="_blank">
+<a href="https://s3.amazonaws.com/hsukenooi/homepage_step1.png" target="_blank" class="image-link">
   <img src="https://s3.amazonaws.com/hsukenooi/homepage_step1.png" width="570">
 </a>
 

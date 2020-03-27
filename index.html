@@ -8,6 +8,7 @@ title: "Blog"
     <div class="post">
       {{ post.content | markdownify }}
       {% include share.html %}
+      <p class="demphasis meta-data">{{ post.date | date: '%e %b %Y' }} in {{ post.location }}</p>
     </div>
   {% endfor %}
 </div>
