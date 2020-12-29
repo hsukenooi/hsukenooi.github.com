@@ -6,8 +6,9 @@ permalink: pretty
 navigation:
   - title: About 
     url: /about/
-  - title: Archive 
-    url: /archive/
-
+  - title: Books 
+    url: /books/
+  - title: Writing 
+    url: /writing/
 
 ---
